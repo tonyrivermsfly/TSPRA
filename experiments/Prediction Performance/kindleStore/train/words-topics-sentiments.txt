@@ -1,0 +1,19760 @@
+Word: ﻿excellent
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: read
+Topic: 0
+0	1	2	
+Topic: 1
+56	0	2	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+4	0	0	
+Topic: 5
+78	0	7	
+Topic: 6
+0	2	0	
+Topic: 7
+0	1	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	1	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	2	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: forbes
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	0	3	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: speed
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	2	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	2	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: better
+Topic: 0
+0	0	0	
+Topic: 1
+6	0	12	
+Topic: 2
+0	2	5	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+5	0	0	
+Topic: 6
+0	0	1	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	1	
+Topic: 9
+0	0	0	
+Topic: 10
+1	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: magazine
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	3	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+21	5	15	
+Topic: 6
+0	2	0	
+Topic: 7
+0	0	8	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: advertisement
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+5	1	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	1	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: picture
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	2	
+Topic: 2
+0	3	8	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+4	3	10	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	1	1	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: article
+Topic: 0
+3	2	41	
+Topic: 1
+1	0	0	
+Topic: 2
+0	14	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+27	0	2	
+Topic: 6
+0	0	0	
+Topic: 7
+0	1	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	2	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: concise
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	4	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: easy
+Topic: 0
+0	0	1	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+4	1	0	
+Topic: 5
+1	0	5	
+Topic: 6
+1	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	1	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+1	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: format
+Topic: 0
+11	0	0	
+Topic: 1
+0	0	1	
+Topic: 2
+0	1	4	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	1	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+1	1	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: wireless
+Topic: 0
+0	0	0	
+Topic: 1
+1	0	0	
+Topic: 2
+1	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+1	0	0	
+Topic: 5
+3	1	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+1	0	1	
+Topic: 9
+0	0	2	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	2	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: delivery
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	3	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+5	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+1	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	1	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: deliver
+Topic: 0
+0	0	0	
+Topic: 1
+0	1	0	
+Topic: 2
+0	0	3	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	9	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	1	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: enjoy
+Topic: 0
+10	0	1	
+Topic: 1
+0	0	0	
+Topic: 2
+0	1	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	1	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	1	
+Topic: 8
+0	1	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+1	0	0	
+
+Word: version
+Topic: 0
+4	0	2	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	16	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+18	0	15	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	1	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: able
+Topic: 0
+0	0	0	
+Topic: 1
+2	1	2	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+9	0	1	
+Topic: 6
+1	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: time
+Topic: 0
+13	2	1	
+Topic: 1
+0	3	16	
+Topic: 2
+0	5	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+7	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	2	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	1	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: usually
+Topic: 0
+0	0	3	
+Topic: 1
+1	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+4	2	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: whenever
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	2	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	0	2	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: look
+Topic: 0
+0	0	0	
+Topic: 1
+1	0	11	
+Topic: 2
+0	1	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+2	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: newspaper
+Topic: 0
+1	0	0	
+Topic: 1
+0	0	15	
+Topic: 2
+2	4	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	2	30	
+Topic: 6
+0	0	0	
+Topic: 7
+1	1	0	
+Topic: 8
+0	0	0	
+Topic: 9
+1	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	1	
+Topic: 14
+1	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: best
+Topic: 0
+0	0	0	
+Topic: 1
+1	0	8	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+2	0	12	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	1	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	1	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: excellent
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+18	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	1	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+1	1	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: fortune
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+15	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: first
+Topic: 0
+0	7	0	
+Topic: 1
+16	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	1	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	2	
+Topic: 8
+0	0	0	
+Topic: 9
+0	1	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: really
+Topic: 0
+4	0	2	
+Topic: 1
+9	0	3	
+Topic: 2
+0	0	1	
+Topic: 3
+0	2	1	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	6	
+Topic: 8
+0	1	0	
+Topic: 9
+0	1	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	1	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: review
+Topic: 0
+0	4	1	
+Topic: 1
+7	1	4	
+Topic: 2
+0	0	2	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	5	
+Topic: 6
+0	0	0	
+Topic: 7
+3	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+1	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	1	1	
+Topic: 14
+0	1	1	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: iphone
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	3	
+Topic: 2
+0	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+1	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	1	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: hard
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	1	2	
+Topic: 6
+0	0	0	
+Topic: 7
+1	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: copy
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+1	1	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	1	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	6	0	
+Topic: 7
+0	1	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: small
+Topic: 0
+0	4	0	
+Topic: 1
+0	0	1	
+Topic: 2
+0	1	1	
+Topic: 3
+0	0	0	
+Topic: 4
+1	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	1	3	
+Topic: 10
+0	0	0	
+Topic: 11
+0	2	1	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: easily
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	2	
+Topic: 5
+0	0	0	
+Topic: 6
+2	0	0	
+Topic: 7
+1	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+1	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: increase
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	1	
+Topic: 2
+0	1	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	1	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	1	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: font
+Topic: 0
+0	0	0	
+Topic: 1
+0	1	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	1	2	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+1	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: size
+Topic: 0
+1	0	0	
+Topic: 1
+1	0	2	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	1	1	
+Topic: 13
+0	0	1	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: phone
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+2	0	1	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	1	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: little
+Topic: 0
+1	6	1	
+Topic: 1
+9	1	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	1	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	1	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: cheaper
+Topic: 0
+0	0	0	
+Topic: 1
+1	0	0	
+Topic: 2
+1	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	3	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: cancel
+Topic: 0
+0	2	0	
+Topic: 1
+1	1	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	2	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: subscription
+Topic: 0
+0	0	1	
+Topic: 1
+0	0	0	
+Topic: 2
+2	2	10	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+4	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	1	
+Topic: 13
+0	2	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: month
+Topic: 0
+1	1	5	
+Topic: 1
+4	2	2	
+Topic: 2
+0	8	0	
+Topic: 3
+0	0	1	
+Topic: 4
+1	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: edition
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	6	13	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	1	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+1	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+1	0	1	
+Topic: 14
+0	1	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: available
+Topic: 0
+1	0	0	
+Topic: 1
+0	1	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+1	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+1	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+1	0	1	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: immediately
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+1	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+2	0	1	
+Topic: 11
+0	1	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: news
+Topic: 0
+10	0	11	
+Topic: 1
+0	0	2	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+4	5	3	
+Topic: 6
+0	0	0	
+Topic: 7
+4	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	1	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: probably
+Topic: 0
+2	0	0	
+Topic: 1
+0	2	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	1	
+Topic: 6
+0	1	0	
+Topic: 7
+0	1	1	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	2	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	2	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: entire
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+1	0	0	
+Topic: 3
+0	0	1	
+Topic: 4
+0	0	0	
+Topic: 5
+3	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+1	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: library
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	4	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	1	
+Topic: 8
+0	0	1	
+Topic: 9
+0	0	0	
+Topic: 10
+1	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	1	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: outside
+Topic: 0
+0	0	0	
+Topic: 1
+2	0	0	
+Topic: 2
+1	1	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	0	0	
+Topic: 6
+0	0	1	
+Topic: 7
+1	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: access
+Topic: 0
+0	0	0	
+Topic: 1
+2	0	0	
+Topic: 2
+0	1	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	1	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	2	0	
+Topic: 7
+0	0	1	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: itself
+Topic: 0
+0	1	2	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+2	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+1	0	0	
+Topic: 7
+1	0	2	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	1	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	1	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: simply
+Topic: 0
+0	1	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+2	0	2	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: fantastic
+Topic: 0
+0	0	1	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	1	0	
+Topic: 4
+0	2	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	1	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: subscribe
+Topic: 0
+3	1	0	
+Topic: 1
+1	0	0	
+Topic: 2
+0	5	5	
+Topic: 3
+0	0	0	
+Topic: 4
+0	1	0	
+Topic: 5
+7	2	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: science
+Topic: 0
+3	1	3	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: finally
+Topic: 0
+0	3	0	
+Topic: 1
+2	0	3	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+2	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+1	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	1	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: story
+Topic: 0
+4	0	8	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+4	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	1	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: like
+Topic: 0
+5	6	3	
+Topic: 1
+3	1	11	
+Topic: 2
+0	0	10	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	1	
+Topic: 5
+5	0	9	
+Topic: 6
+1	2	0	
+Topic: 7
+3	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+1	2	0	
+Topic: 10
+0	0	0	
+Topic: 11
+2	1	0	
+Topic: 12
+0	1	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: amazing
+Topic: 0
+0	0	0	
+Topic: 1
+1	0	1	
+Topic: 2
+0	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+1	0	1	
+Topic: 8
+0	0	0	
+Topic: 9
+0	1	1	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+2	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: page
+Topic: 0
+1	2	0	
+Topic: 1
+33	0	4	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	4	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	1	
+Topic: 9
+0	0	3	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: interesting
+Topic: 0
+1	0	8	
+Topic: 1
+1	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+2	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	1	0	
+Topic: 8
+1	0	0	
+Topic: 9
+0	1	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: happen
+Topic: 0
+0	0	5	
+Topic: 1
+0	1	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+1	1	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: complaint
+Topic: 0
+0	0	0	
+Topic: 1
+0	1	1	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	1	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	2	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: great
+Topic: 0
+0	0	0	
+Topic: 1
+5	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+2	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+17	0	2	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+1	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	1	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: amazon
+Topic: 0
+5	1	0	
+Topic: 1
+25	1	5	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+1	15	2	
+Topic: 7
+0	0	0	
+Topic: 8
+0	2	0	
+Topic: 9
+0	1	0	
+Topic: 10
+1	0	0	
+Topic: 11
+0	0	1	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	1	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: money
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	4	
+Topic: 2
+0	0	1	
+Topic: 3
+0	1	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	1	0	
+Topic: 7
+1	0	0	
+Topic: 8
+1	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: button
+Topic: 0
+0	0	0	
+Topic: 1
+6	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	4	
+Topic: 6
+0	0	1	
+Topic: 7
+0	0	3	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	1	
+Topic: 10
+0	1	0	
+Topic: 11
+2	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	1	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: purchase
+Topic: 0
+0	0	0	
+Topic: 1
+1	1	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	1	2	
+Topic: 4
+0	0	0	
+Topic: 5
+1	0	0	
+Topic: 6
+0	10	0	
+Topic: 7
+0	0	0	
+Topic: 8
+1	0	0	
+Topic: 9
+0	1	0	
+Topic: 10
+0	0	0	
+Topic: 11
+2	0	0	
+Topic: 12
+1	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: buy
+Topic: 0
+0	0	1	
+Topic: 1
+8	0	8	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	5	
+Topic: 6
+0	5	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	1	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: archive
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	2	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	3	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: issue
+Topic: 0
+0	0	1	
+Topic: 1
+1	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+1	0	0	
+Topic: 4
+1	0	0	
+Topic: 5
+6	0	0	
+Topic: 6
+0	1	3	
+Topic: 7
+1	1	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: unlike
+Topic: 0
+1	1	0	
+Topic: 1
+1	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	1	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	1	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: computer
+Topic: 0
+0	0	0	
+Topic: 1
+5	0	0	
+Topic: 2
+0	1	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	1	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	1	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+1	0	0	
+Topic: 12
+0	0	1	
+Topic: 13
+1	3	0	
+Topic: 14
+0	0	1	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: example
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	1	0	
+Topic: 5
+0	1	1	
+Topic: 6
+0	1	0	
+Topic: 7
+0	0	0	
+Topic: 8
+1	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: wall
+Topic: 0
+0	2	1	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+3	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+1	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: street
+Topic: 0
+0	3	1	
+Topic: 1
+0	1	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+3	0	0	
+Topic: 6
+0	0	1	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: should
+Topic: 0
+0	0	0	
+Topic: 1
+10	0	3	
+Topic: 2
+0	1	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	0	1	
+Topic: 6
+1	0	1	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: receive
+Topic: 0
+0	0	1	
+Topic: 1
+0	0	1	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	1	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+1	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: otherwise
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	1	0	
+Topic: 6
+0	1	0	
+Topic: 7
+0	0	1	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	2	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: past
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	1	0	
+Topic: 5
+1	0	0	
+Topic: 6
+0	2	0	
+Topic: 7
+0	0	0	
+Topic: 8
+1	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+1	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: download
+Topic: 0
+0	0	0	
+Topic: 1
+3	1	1	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+2	1	1	
+Topic: 6
+0	2	0	
+Topic: 7
+2	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+2	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	1	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: original
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	2	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	1	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	1	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: periodical
+Topic: 0
+1	0	3	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	1	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	1	0	
+Topic: 11
+1	1	0	
+Topic: 12
+2	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: rights
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	1	3	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: replace
+Topic: 0
+0	0	1	
+Topic: 1
+3	1	3	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	3	1	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	1	0	
+Topic: 10
+0	0	1	
+Topic: 11
+0	0	0	
+Topic: 12
+0	1	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: pay
+Topic: 0
+0	0	0	
+Topic: 1
+1	2	2	
+Topic: 2
+0	11	0	
+Topic: 3
+0	0	0	
+Topic: 4
+1	0	0	
+Topic: 5
+0	1	0	
+Topic: 6
+0	1	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	1	1	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	1	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: hope
+Topic: 0
+1	0	2	
+Topic: 1
+0	1	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	1	0	
+Topic: 6
+0	0	1	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+1	1	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: never
+Topic: 0
+0	0	0	
+Topic: 1
+6	4	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	0	2	
+Topic: 6
+0	1	0	
+Topic: 7
+1	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: break
+Topic: 0
+1	0	1	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	1	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	1	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	1	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: well
+Topic: 0
+1	3	2	
+Topic: 1
+5	0	5	
+Topic: 2
+0	1	4	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	1	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	3	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: true
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	1	0	
+Topic: 7
+0	1	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	1	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+1	0	1	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: turn
+Topic: 0
+0	0	0	
+Topic: 1
+15	1	2	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	1	1	
+Topic: 6
+1	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	2	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: good
+Topic: 0
+1	0	14	
+Topic: 1
+4	2	8	
+Topic: 2
+4	1	4	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+2	0	0	
+Topic: 6
+0	3	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+1	0	1	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: focus
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	2	
+Topic: 2
+0	1	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	1	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: fact
+Topic: 0
+0	0	0	
+Topic: 1
+0	5	0	
+Topic: 2
+1	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	0	0	
+Topic: 6
+0	0	1	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: later
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+1	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+2	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+1	0	0	
+Topic: 11
+1	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: place
+Topic: 0
+1	0	1	
+Topic: 1
+1	0	2	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+1	0	1	
+Topic: 5
+1	0	0	
+Topic: 6
+0	1	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: above
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	2	
+Topic: 6
+0	2	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+1	0	1	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: company
+Topic: 0
+0	0	0	
+Topic: 1
+2	0	0	
+Topic: 2
+0	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	1	0	
+Topic: 6
+0	2	1	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	1	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: claim
+Topic: 0
+0	0	0	
+Topic: 1
+3	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	3	
+Topic: 6
+0	0	1	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+1	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: large
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	2	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	1	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: market
+Topic: 0
+1	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	1	1	
+Topic: 6
+2	1	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: content
+Topic: 0
+2	0	11	
+Topic: 1
+6	0	1	
+Topic: 2
+0	13	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	1	4	
+Topic: 6
+2	1	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	2	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: paper
+Topic: 0
+0	0	0	
+Topic: 1
+2	0	3	
+Topic: 2
+4	6	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+6	1	14	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+1	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: write
+Topic: 0
+3	0	0	
+Topic: 1
+3	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+2	1	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	1	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+2	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	1	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: touch
+Topic: 0
+1	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	1	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	1	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	1	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: upgrade
+Topic: 0
+0	0	0	
+Topic: 1
+5	3	1	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: product
+Topic: 0
+0	3	1	
+Topic: 1
+7	0	1	
+Topic: 2
+0	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+2	0	1	
+Topic: 7
+0	0	0	
+Topic: 8
+0	1	0	
+Topic: 9
+1	1	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	1	
+Topic: 12
+0	0	0	
+Topic: 13
+0	1	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: order
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	6	
+Topic: 2
+0	0	0	
+Topic: 3
+1	0	0	
+Topic: 4
+0	0	1	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	1	
+Topic: 11
+1	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: instantly
+Topic: 0
+0	0	0	
+Topic: 1
+1	0	2	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	1	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: love
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	10	
+Topic: 2
+2	0	2	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	0	10	
+Topic: 6
+0	1	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	1	
+Topic: 11
+0	0	0	
+Topic: 12
+0	2	1	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: ugly
+Topic: 0
+0	0	0	
+Topic: 1
+2	0	4	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: device
+Topic: 0
+0	0	0	
+Topic: 1
+42	0	4	
+Topic: 2
+0	0	0	
+Topic: 3
+1	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+1	0	1	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	1	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: hold
+Topic: 0
+0	0	0	
+Topic: 1
+8	1	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	1	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	1	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: second
+Topic: 0
+0	0	0	
+Topic: 1
+3	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	1	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	2	
+Topic: 8
+0	0	1	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	1	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: pretty
+Topic: 0
+0	4	0	
+Topic: 1
+0	3	0	
+Topic: 2
+0	1	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	1	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+1	0	2	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: pass
+Topic: 0
+0	0	1	
+Topic: 1
+0	1	0	
+Topic: 2
+0	1	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	1	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: ebook
+Topic: 0
+0	0	0	
+Topic: 1
+9	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+2	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: reader
+Topic: 0
+0	0	0	
+Topic: 1
+7	2	17	
+Topic: 2
+0	3	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+1	3	0	
+Topic: 7
+0	0	1	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	1	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: sprint
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	1	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+1	1	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	1	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: address
+Topic: 0
+0	0	0	
+Topic: 1
+1	0	0	
+Topic: 2
+0	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+1	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+1	1	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: high
+Topic: 0
+0	0	0	
+Topic: 1
+1	0	1	
+Topic: 2
+0	2	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	1	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	1	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: style
+Topic: 0
+0	0	0	
+Topic: 1
+1	1	1	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	1	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: longer
+Topic: 0
+1	5	1	
+Topic: 1
+1	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	1	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: key
+Topic: 0
+0	0	0	
+Topic: 1
+1	0	2	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	2	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	1	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: feel
+Topic: 0
+0	0	0	
+Topic: 1
+9	0	2	
+Topic: 2
+0	0	3	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	1	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: less
+Topic: 0
+1	0	0	
+Topic: 1
+6	0	3	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	2	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	1	
+Topic: 10
+0	0	0	
+Topic: 11
+0	1	2	
+Topic: 12
+2	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: likely
+Topic: 0
+0	0	0	
+Topic: 1
+1	1	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	2	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	1	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	1	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: menu
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	3	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	2	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	2	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	1	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: home
+Topic: 0
+0	0	0	
+Topic: 1
+1	0	1	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	1	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	1	0	
+Topic: 12
+0	0	1	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: move
+Topic: 0
+0	0	0	
+Topic: 1
+1	2	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	1	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+1	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: must
+Topic: 0
+0	0	2	
+Topic: 1
+2	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	2	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: important
+Topic: 0
+0	0	0	
+Topic: 1
+1	0	4	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: click
+Topic: 0
+0	4	0	
+Topic: 1
+5	1	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	1	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	1	
+Topic: 8
+1	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+1	1	0	
+Topic: 12
+1	1	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: wheel
+Topic: 0
+0	1	0	
+Topic: 1
+1	0	3	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	1	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: point
+Topic: 0
+0	0	0	
+Topic: 1
+8	1	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: new
+Topic: 0
+2	3	5	
+Topic: 1
+31	0	18	
+Topic: 2
+1	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+4	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: functionality
+Topic: 0
+0	0	3	
+Topic: 1
+4	0	2	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: cover
+Topic: 0
+1	0	0	
+Topic: 1
+11	0	1	
+Topic: 2
+1	0	2	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	2	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: frequently
+Topic: 0
+3	2	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: mean
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	7	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+1	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: problem
+Topic: 0
+0	1	1	
+Topic: 1
+4	0	3	
+Topic: 2
+0	1	1	
+Topic: 3
+0	0	1	
+Topic: 4
+0	0	0	
+Topic: 5
+0	1	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: feature
+Topic: 0
+0	0	5	
+Topic: 1
+15	2	1	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	3	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: text
+Topic: 0
+0	0	0	
+Topic: 1
+6	7	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	2	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	1	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: speech
+Topic: 0
+0	0	0	
+Topic: 1
+1	0	2	
+Topic: 2
+0	0	0	
+Topic: 3
+0	1	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: although
+Topic: 0
+0	1	0	
+Topic: 1
+1	0	1	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	1	0	
+Topic: 10
+0	0	0	
+Topic: 11
+1	0	1	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: audio
+Topic: 0
+0	0	0	
+Topic: 1
+1	1	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	1	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	1	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: hear
+Topic: 0
+0	0	0	
+Topic: 1
+0	1	0	
+Topic: 2
+0	0	0	
+Topic: 3
+1	1	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	1	0	
+Topic: 7
+1	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: title
+Topic: 0
+0	0	4	
+Topic: 1
+0	2	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: author
+Topic: 0
+0	0	3	
+Topic: 1
+1	0	1	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	1	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: display
+Topic: 0
+0	0	0	
+Topic: 1
+3	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+1	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+1	0	0	
+Topic: 12
+2	0	2	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: deal
+Topic: 0
+1	0	0	
+Topic: 1
+2	3	1	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	1	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: worth
+Topic: 0
+1	0	1	
+Topic: 1
+9	0	2	
+Topic: 2
+0	1	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	0	6	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+1	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: spend
+Topic: 0
+0	0	0	
+Topic: 1
+2	0	0	
+Topic: 2
+0	1	0	
+Topic: 3
+0	0	0	
+Topic: 4
+1	0	0	
+Topic: 5
+0	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+1	0	1	
+Topic: 9
+0	0	0	
+Topic: 10
+0	1	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: hour
+Topic: 0
+0	0	4	
+Topic: 1
+8	0	2	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: absolutely
+Topic: 0
+0	0	0	
+Topic: 1
+0	1	2	
+Topic: 2
+0	0	1	
+Topic: 3
+0	1	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: please
+Topic: 0
+0	0	0	
+Topic: 1
+2	3	2	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+2	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: old
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	5	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	1	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: customer
+Topic: 0
+0	0	0	
+Topic: 1
+0	1	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	2	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	1	
+Topic: 7
+0	0	0	
+Topic: 8
+0	1	0	
+Topic: 9
+0	0	0	
+Topic: 10
+1	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: service
+Topic: 0
+0	0	1	
+Topic: 1
+0	0	2	
+Topic: 2
+0	2	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	1	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: win
+Topic: 0
+0	0	0	
+Topic: 1
+2	2	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: price
+Topic: 0
+0	1	2	
+Topic: 1
+11	0	0	
+Topic: 2
+0	4	14	
+Topic: 3
+0	0	0	
+Topic: 4
+1	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+1	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: bye
+Topic: 0
+1	0	1	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	2	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: perfectly
+Topic: 0
+0	1	1	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	1	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: subscriber
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	4	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: poor
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	1	3	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+1	0	0	
+Topic: 7
+1	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: financial
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	2	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	1	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: times
+Topic: 0
+1	0	10	
+Topic: 1
+0	0	0	
+Topic: 2
+0	1	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	3	1	
+Topic: 5
+15	0	2	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	1	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: york
+Topic: 0
+0	0	1	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+5	0	4	
+Topic: 5
+1	4	3	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: least
+Topic: 0
+1	1	2	
+Topic: 1
+0	0	0	
+Topic: 2
+0	2	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: quality
+Topic: 0
+3	1	1	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	1	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	1	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	1	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: bit
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	6	
+Topic: 6
+1	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+1	0	0	
+Topic: 10
+0	0	1	
+Topic: 11
+1	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: bad
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	3	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	1	0	
+Topic: 6
+0	0	4	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	1	1	
+Topic: 10
+0	0	0	
+Topic: 11
+0	1	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: sony
+Topic: 0
+0	0	0	
+Topic: 1
+1	0	4	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+1	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+3	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+1	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: nyt
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+9	1	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+2	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	1	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: electronic
+Topic: 0
+0	0	0	
+Topic: 1
+1	0	0	
+Topic: 2
+1	0	8	
+Topic: 3
+0	0	1	
+Topic: 4
+0	1	0	
+Topic: 5
+0	0	0	
+Topic: 6
+1	0	1	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	2	
+Topic: 11
+1	0	0	
+Topic: 12
+1	0	0	
+Topic: 13
+0	1	2	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: rather
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+2	2	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	0	0	
+Topic: 6
+0	2	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+2	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: chart
+Topic: 0
+1	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+1	3	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: instead
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+1	1	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+3	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	1	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+3	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: run
+Topic: 0
+2	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	1	0	
+Topic: 3
+1	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	1	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: decent
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+1	1	2	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	1	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: amount
+Topic: 0
+1	1	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	1	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+1	1	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	1	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: entry
+Topic: 0
+0	4	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	1	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: pdf
+Topic: 0
+0	0	0	
+Topic: 1
+5	0	3	
+Topic: 2
+0	1	0	
+Topic: 3
+1	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	1	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	1	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: print
+Topic: 0
+0	0	0	
+Topic: 1
+0	2	0	
+Topic: 2
+0	8	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+14	1	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: mobile
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	1	
+Topic: 2
+0	1	2	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: web
+Topic: 0
+0	4	0	
+Topic: 1
+0	3	1	
+Topic: 2
+0	1	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+6	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	1	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: site
+Topic: 0
+3	1	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	1	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	1	3	
+Topic: 8
+1	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: seem
+Topic: 0
+0	3	0	
+Topic: 1
+0	4	0	
+Topic: 2
+0	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	2	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	1	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: organize
+Topic: 0
+0	0	0	
+Topic: 1
+1	0	0	
+Topic: 2
+0	2	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+2	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	1	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: cheap
+Topic: 0
+0	0	0	
+Topic: 1
+1	0	0	
+Topic: 2
+0	1	0	
+Topic: 3
+0	0	0	
+Topic: 4
+1	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	1	2	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: fix
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	1	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+4	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+1	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	1	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: include
+Topic: 0
+0	1	0	
+Topic: 1
+1	0	1	
+Topic: 2
+6	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	1	10	
+Topic: 6
+0	0	0	
+Topic: 7
+1	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	2	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	1	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: major
+Topic: 0
+0	0	0	
+Topic: 1
+1	0	0	
+Topic: 2
+0	0	3	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	1	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: along
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+2	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	1	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+2	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: could
+Topic: 0
+0	0	2	
+Topic: 1
+6	1	0	
+Topic: 2
+5	1	2	
+Topic: 3
+0	0	0	
+Topic: 4
+2	0	2	
+Topic: 5
+1	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+1	0	0	
+Topic: 12
+0	0	1	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: per
+Topic: 0
+1	0	4	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	1	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: table
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+3	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+1	0	0	
+Topic: 5
+2	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: comment
+Topic: 0
+0	1	0	
+Topic: 1
+0	0	0	
+Topic: 2
+1	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	1	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: summary
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	0	2	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: section
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+2	1	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	1	
+Topic: 5
+12	2	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: list
+Topic: 0
+1	0	12	
+Topic: 1
+1	0	0	
+Topic: 2
+1	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+2	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: however
+Topic: 0
+0	0	0	
+Topic: 1
+2	1	0	
+Topic: 2
+0	2	0	
+Topic: 3
+1	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+1	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	1	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: potential
+Topic: 0
+0	0	0	
+Topic: 1
+0	2	0	
+Topic: 2
+1	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+1	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: improvement
+Topic: 0
+0	0	0	
+Topic: 1
+3	3	1	
+Topic: 2
+1	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	1	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	3	0	
+Topic: 10
+1	0	2	
+Topic: 11
+1	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: maybe
+Topic: 0
+0	3	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	1	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	1	
+Topic: 11
+1	0	1	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: single
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+3	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	1	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: front
+Topic: 0
+1	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+1	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	1	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: headline
+Topic: 0
+4	0	1	
+Topic: 1
+0	0	0	
+Topic: 2
+1	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	1	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: convert
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	1	
+Topic: 2
+2	0	0	
+Topic: 3
+0	0	1	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	1	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	1	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: lower
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+1	1	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	1	0	
+Topic: 12
+1	0	1	
+Topic: 13
+1	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: consider
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	1	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	2	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	1	0	
+Topic: 9
+0	0	1	
+Topic: 10
+0	0	0	
+Topic: 11
+0	1	0	
+Topic: 12
+0	1	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: enjoyable
+Topic: 0
+2	2	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: may
+Topic: 0
+2	2	3	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+2	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	2	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: website
+Topic: 0
+1	0	0	
+Topic: 1
+0	1	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+1	0	0	
+Topic: 5
+1	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	1	
+Topic: 14
+1	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: blog
+Topic: 0
+3	0	53	
+Topic: 1
+0	0	0	
+Topic: 2
+3	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+2	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	1	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: reasonable
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	1	
+Topic: 2
+0	0	3	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	1	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: opinion
+Topic: 0
+0	0	0	
+Topic: 1
+1	0	2	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	1	0	
+Topic: 6
+0	1	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	1	
+Topic: 10
+0	0	0	
+Topic: 11
+0	1	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: definitely
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	6	
+Topic: 6
+0	0	0	
+Topic: 7
+0	1	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	1	0	
+Topic: 10
+1	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: value
+Topic: 0
+1	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+1	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	1	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	1	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: reading
+Topic: 0
+1	0	0	
+Topic: 1
+18	3	0	
+Topic: 2
+0	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+1	1	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	1	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: far
+Topic: 0
+0	0	4	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+4	0	3	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: nearly
+Topic: 0
+1	0	0	
+Topic: 1
+0	0	2	
+Topic: 2
+0	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: post
+Topic: 0
+0	3	5	
+Topic: 1
+0	0	0	
+Topic: 2
+2	0	0	
+Topic: 3
+1	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+3	0	2	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+1	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: wonderful
+Topic: 0
+0	0	1	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+1	0	0	
+Topic: 5
+1	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	2	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: politics
+Topic: 0
+0	0	3	
+Topic: 1
+0	0	1	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: big
+Topic: 0
+0	0	0	
+Topic: 1
+0	2	0	
+Topic: 2
+0	0	2	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+3	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+3	0	0	
+Topic: 8
+0	1	0	
+Topic: 9
+1	2	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	2	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: fan
+Topic: 0
+4	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	1	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	1	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: occasional
+Topic: 0
+0	0	2	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	1	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: overall
+Topic: 0
+1	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	0	0	
+Topic: 6
+1	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+2	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: sign
+Topic: 0
+0	0	2	
+Topic: 1
+0	0	0	
+Topic: 2
+1	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+1	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: link
+Topic: 0
+4	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	1	0	
+Topic: 7
+1	0	0	
+Topic: 8
+1	0	2	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: online
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	4	4	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	1	
+Topic: 5
+1	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+1	0	1	
+Topic: 12
+0	0	0	
+Topic: 13
+2	0	1	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: trial
+Topic: 0
+1	8	2	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: free
+Topic: 0
+0	0	0	
+Topic: 1
+3	10	5	
+Topic: 2
+0	1	3	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+1	0	3	
+Topic: 8
+0	0	1	
+Topic: 9
+0	0	1	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	3	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: expensive
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	3	2	
+Topic: 3
+1	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	1	
+Topic: 10
+0	0	0	
+Topic: 11
+2	0	0	
+Topic: 12
+0	1	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: carry
+Topic: 0
+2	0	0	
+Topic: 1
+1	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	1	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+1	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: around
+Topic: 0
+3	1	0	
+Topic: 1
+1	0	0	
+Topic: 2
+1	0	0	
+Topic: 3
+0	0	1	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	2	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+1	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	1	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: quick
+Topic: 0
+1	2	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+1	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: always
+Topic: 0
+0	0	0	
+Topic: 1
+0	1	1	
+Topic: 2
+0	0	4	
+Topic: 3
+1	1	0	
+Topic: 4
+0	0	1	
+Topic: 5
+0	2	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: fairly
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	1	
+Topic: 2
+0	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	1	
+Topic: 7
+0	1	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: graphic
+Topic: 0
+1	0	0	
+Topic: 1
+0	0	1	
+Topic: 2
+1	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	1	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: wish
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+3	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	0	2	
+Topic: 6
+0	0	1	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: guess
+Topic: 0
+1	0	1	
+Topic: 1
+0	0	1	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	1	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: sell
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	1	
+Topic: 2
+0	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+1	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+1	0	1	
+Topic: 7
+0	0	0	
+Topic: 8
+1	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: skip
+Topic: 0
+1	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	2	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: except
+Topic: 0
+0	0	1	
+Topic: 1
+0	0	1	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	1	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	1	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: lose
+Topic: 0
+1	0	1	
+Topic: 1
+0	0	1	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	1	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: design
+Topic: 0
+0	0	0	
+Topic: 1
+9	0	2	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	1	
+Topic: 6
+0	1	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	2	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: become
+Topic: 0
+0	2	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	1	2	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	1	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: down
+Topic: 0
+0	1	1	
+Topic: 1
+0	1	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+1	1	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	1	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+1	0	0	
+Topic: 17
+0	0	0	
+
+Word: favorite
+Topic: 0
+0	0	1	
+Topic: 1
+0	0	0	
+Topic: 2
+1	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+1	0	1	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	2	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: washington
+Topic: 0
+0	1	2	
+Topic: 1
+0	0	0	
+Topic: 2
+1	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	1	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: happy
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	2	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+1	0	1	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+2	2	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: papers
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+4	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+5	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: ask
+Topic: 0
+0	0	0	
+Topic: 1
+0	1	0	
+Topic: 2
+3	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	1	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	1	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: journal
+Topic: 0
+0	0	2	
+Topic: 1
+0	0	0	
+Topic: 2
+1	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	4	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	1	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: offer
+Topic: 0
+0	0	1	
+Topic: 1
+1	0	1	
+Topic: 2
+1	2	2	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	1	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	1	0	
+Topic: 8
+1	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	1	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: imagine
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	1	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	1	0	
+Topic: 6
+0	1	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+1	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: ipad
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	1	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+3	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: handle
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	1	0	
+Topic: 3
+2	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	1	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: sure
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	6	
+Topic: 2
+0	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+2	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: various
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	1	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+3	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: thus
+Topic: 0
+0	1	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	1	1	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+1	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: save
+Topic: 0
+0	1	1	
+Topic: 1
+2	0	0	
+Topic: 2
+0	0	2	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+4	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	1	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: ii
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	1	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	3	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: wait
+Topic: 0
+2	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	1	
+Topic: 4
+0	0	0	
+Topic: 5
+2	2	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	1	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: concern
+Topic: 0
+0	0	0	
+Topic: 1
+1	4	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+1	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: reviewer
+Topic: 0
+0	0	0	
+Topic: 1
+0	1	1	
+Topic: 2
+1	0	0	
+Topic: 3
+1	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	1	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	1	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	1	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: mention
+Topic: 0
+0	1	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	1	
+Topic: 3
+0	1	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	2	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: support
+Topic: 0
+0	0	0	
+Topic: 1
+1	0	1	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	2	0	
+Topic: 9
+0	0	1	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: email
+Topic: 0
+0	0	0	
+Topic: 1
+2	0	0	
+Topic: 2
+0	1	1	
+Topic: 3
+1	0	0	
+Topic: 4
+1	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	3	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: two
+Topic: 0
+0	0	5	
+Topic: 1
+4	1	5	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+2	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	2	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: quickly
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+1	0	0	
+Topic: 4
+1	0	0	
+Topic: 5
+1	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+2	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: eye
+Topic: 0
+0	0	0	
+Topic: 1
+0	3	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+1	0	1	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+1	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: ink
+Topic: 0
+0	0	0	
+Topic: 1
+0	1	1	
+Topic: 2
+0	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	1	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: technology
+Topic: 0
+4	0	0	
+Topic: 1
+2	5	1	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	1	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: miss
+Topic: 0
+0	0	0	
+Topic: 1
+0	2	0	
+Topic: 2
+0	1	2	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+1	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+1	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: color
+Topic: 0
+0	0	0	
+Topic: 1
+0	2	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	1	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	3	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	2	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: disappear
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	1	
+Topic: 3
+0	0	1	
+Topic: 4
+0	0	0	
+Topic: 5
+0	1	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+1	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: experience
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	9	3	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+1	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+1	0	0	
+Topic: 14
+0	0	1	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: technical
+Topic: 0
+0	0	0	
+Topic: 1
+1	0	1	
+Topic: 2
+0	0	0	
+Topic: 3
+1	1	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: sound
+Topic: 0
+1	0	0	
+Topic: 1
+1	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+1	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	1	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: sometimes
+Topic: 0
+3	0	0	
+Topic: 1
+0	1	1	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: sentence
+Topic: 0
+0	0	0	
+Topic: 1
+1	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+3	0	0	
+Topic: 4
+0	1	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: difficult
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	1	0	
+Topic: 4
+0	1	0	
+Topic: 5
+0	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+1	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	1	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: experimental
+Topic: 0
+1	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	1	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	2	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: car
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+1	0	2	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	1	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: switch
+Topic: 0
+0	0	0	
+Topic: 1
+2	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	1	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	1	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	1	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: recommend
+Topic: 0
+2	0	8	
+Topic: 1
+0	2	0	
+Topic: 2
+0	0	0	
+Topic: 3
+1	0	0	
+Topic: 4
+1	0	0	
+Topic: 5
+3	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: begin
+Topic: 0
+0	0	0	
+Topic: 1
+1	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	1	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	1	
+Topic: 6
+0	0	1	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	1	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: finish
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	1	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+2	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	1	3	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: useless
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	1	
+Topic: 3
+1	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	0	1	
+Topic: 6
+0	0	1	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: novel
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	2	
+Topic: 2
+0	0	0	
+Topic: 3
+1	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+3	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+1	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: voice
+Topic: 0
+0	0	0	
+Topic: 1
+1	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+1	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	1	
+Topic: 10
+0	1	1	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: especially
+Topic: 0
+0	1	0	
+Topic: 1
+1	1	3	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+3	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+1	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: stuff
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	1	2	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+1	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: gutenberg
+Topic: 0
+0	0	0	
+Topic: 1
+1	0	1	
+Topic: 2
+0	0	0	
+Topic: 3
+1	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+1	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: e-book
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	1	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	4	4	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	2	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: public
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	1	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	1	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+1	0	0	
+Topic: 13
+1	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: plus
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	2	2	
+Topic: 3
+0	1	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	1	0	
+Topic: 6
+1	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+1	0	0	
+Topic: 12
+0	0	1	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: huge
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	1	
+Topic: 3
+1	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	1	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	1	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: complete
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+2	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	2	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: cost
+Topic: 0
+0	0	0	
+Topic: 1
+2	4	0	
+Topic: 2
+1	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+1	0	0	
+Topic: 5
+0	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	1	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: process
+Topic: 0
+0	0	0	
+Topic: 1
+1	1	0	
+Topic: 2
+0	0	0	
+Topic: 3
+1	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: efficient
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	1	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	4	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: everything
+Topic: 0
+0	0	0	
+Topic: 1
+1	0	0	
+Topic: 2
+1	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	1	0	
+Topic: 6
+0	0	1	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	1	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	1	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: completely
+Topic: 0
+0	0	0	
+Topic: 1
+1	0	0	
+Topic: 2
+0	1	0	
+Topic: 3
+1	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	2	
+Topic: 7
+0	0	0	
+Topic: 8
+0	1	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: continue
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+1	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	0	1	
+Topic: 6
+0	1	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	1	1	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: long
+Topic: 0
+0	2	0	
+Topic: 1
+4	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+1	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: build
+Topic: 0
+0	0	0	
+Topic: 1
+1	0	2	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	1	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: neat
+Topic: 0
+1	0	0	
+Topic: 1
+1	0	1	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: load
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+1	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+1	0	0	
+Topic: 13
+1	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: file
+Topic: 0
+0	0	0	
+Topic: 1
+6	0	0	
+Topic: 2
+1	1	0	
+Topic: 3
+0	1	0	
+Topic: 4
+0	1	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: dx
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	1	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+2	0	1	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: full
+Topic: 0
+1	1	0	
+Topic: 1
+0	0	0	
+Topic: 2
+2	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	1	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	1	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+1	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: wsj
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	4	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	1	16	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: ibd
+Topic: 0
+0	0	1	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+2	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: business
+Topic: 0
+0	0	3	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	6	
+Topic: 6
+0	0	3	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: pick
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+2	3	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+1	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: individual
+Topic: 0
+0	1	0	
+Topic: 1
+0	1	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	0	0	
+Topic: 6
+0	1	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: sunday
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	1	0	
+Topic: 5
+3	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: older
+Topic: 0
+0	0	3	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: need
+Topic: 0
+0	1	0	
+Topic: 1
+0	0	14	
+Topic: 2
+1	1	4	
+Topic: 3
+0	0	0	
+Topic: 4
+1	1	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+1	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	1	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: graph
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	4	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: piece
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	1	0	
+Topic: 7
+1	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	1	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: gadget
+Topic: 0
+0	0	0	
+Topic: 1
+0	1	2	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+1	0	2	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: student
+Topic: 0
+0	0	1	
+Topic: 1
+0	2	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+1	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	1	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: stop
+Topic: 0
+0	3	0	
+Topic: 1
+1	0	2	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	0	0	
+Topic: 6
+0	0	1	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: video
+Topic: 0
+0	0	0	
+Topic: 1
+1	0	2	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	1	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	1	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: play
+Topic: 0
+0	0	0	
+Topic: 1
+2	0	2	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	1	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: pro
+Topic: 0
+0	0	0	
+Topic: 1
+2	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+1	1	2	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: con
+Topic: 0
+0	0	0	
+Topic: 1
+2	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+1	0	2	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: yourself
+Topic: 0
+0	1	1	
+Topic: 1
+1	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+2	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: platform
+Topic: 0
+0	1	0	
+Topic: 1
+2	0	0	
+Topic: 2
+1	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	1	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+1	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: below
+Topic: 0
+0	0	1	
+Topic: 1
+1	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	1	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: decide
+Topic: 0
+0	2	0	
+Topic: 1
+0	1	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	2	0	
+Topic: 9
+0	1	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: blogger
+Topic: 0
+0	5	4	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: start
+Topic: 0
+4	3	0	
+Topic: 1
+0	1	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: state
+Topic: 0
+0	0	2	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	1	0	
+Topic: 12
+1	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	1	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: why
+Topic: 0
+0	0	0	
+Topic: 1
+2	0	1	
+Topic: 2
+0	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+1	0	1	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+1	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: sense
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	2	
+Topic: 2
+1	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+2	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: coffee
+Topic: 0
+0	0	0	
+Topic: 1
+1	1	1	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+1	0	1	
+Topic: 5
+1	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: idea
+Topic: 0
+1	1	0	
+Topic: 1
+0	1	0	
+Topic: 2
+0	1	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	1	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: show
+Topic: 0
+0	0	0	
+Topic: 1
+1	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	1	1	
+Topic: 5
+1	2	5	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+1	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: easier
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	1	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	1	
+Topic: 5
+0	0	0	
+Topic: 6
+0	1	2	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+2	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: jeff
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+3	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	2	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: bezos
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+1	0	4	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: barnes
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	2	
+Topic: 5
+0	0	0	
+Topic: 6
+0	1	1	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: noble
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+1	0	1	
+Topic: 5
+0	0	0	
+Topic: 6
+1	1	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: train
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+5	2	0	
+Topic: 5
+1	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: subway
+Topic: 0
+0	0	0	
+Topic: 1
+1	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+1	0	1	
+Topic: 5
+0	1	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: leather
+Topic: 0
+0	0	0	
+Topic: 1
+1	0	3	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+2	0	1	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: case
+Topic: 0
+1	0	0	
+Topic: 1
+0	2	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	2	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+1	0	2	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+2	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: due
+Topic: 0
+0	0	0	
+Topic: 1
+0	1	1	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	1	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	1	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: cold
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+1	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+3	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: delay
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+1	2	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	1	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: minute
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+1	0	0	
+Topic: 4
+0	0	6	
+Topic: 5
+3	1	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	1	
+Topic: 12
+0	0	1	
+Topic: 13
+1	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: navigate
+Topic: 0
+0	0	1	
+Topic: 1
+0	0	0	
+Topic: 2
+0	1	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	1	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: ny
+Topic: 0
+5	0	3	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	1	
+Topic: 5
+1	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	1	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: change
+Topic: 0
+1	1	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+2	0	0	
+Topic: 5
+1	1	1	
+Topic: 6
+1	1	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	1	
+Topic: 10
+0	0	0	
+Topic: 11
+1	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: class
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	3	
+Topic: 5
+0	0	0	
+Topic: 6
+0	1	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	1	1	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: learn
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+1	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+1	0	1	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	2	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: sd
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+2	0	2	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	1	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	1	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: mark
+Topic: 0
+1	0	0	
+Topic: 1
+0	1	0	
+Topic: 2
+0	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	1	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: battery
+Topic: 0
+0	0	0	
+Topic: 1
+4	1	6	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+3	0	0	
+Topic: 9
+0	1	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: ability
+Topic: 0
+0	0	0	
+Topic: 1
+2	2	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+2	0	0	
+Topic: 5
+0	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	1	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: dictionary
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+1	0	0	
+Topic: 4
+3	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: helpful
+Topic: 0
+0	0	0	
+Topic: 1
+0	1	1	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	1	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	1	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: compare
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	2	
+Topic: 2
+1	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+1	0	1	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: real
+Topic: 0
+0	0	0	
+Topic: 1
+1	0	0	
+Topic: 2
+0	2	0	
+Topic: 3
+0	0	0	
+Topic: 4
+1	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: actually
+Topic: 0
+1	0	0	
+Topic: 1
+3	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+1	0	0	
+Topic: 5
+1	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	1	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: week
+Topic: 0
+0	2	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+1	0	0	
+Topic: 5
+0	1	1	
+Topic: 6
+2	0	0	
+Topic: 7
+1	0	0	
+Topic: 8
+0	0	1	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+1	0	1	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: latest
+Topic: 0
+3	0	2	
+Topic: 1
+0	1	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: automatically
+Topic: 0
+0	0	0	
+Topic: 1
+1	1	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+1	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+1	1	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: arrive
+Topic: 0
+0	0	0	
+Topic: 1
+1	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+2	0	0	
+Topic: 5
+0	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+1	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: already
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+1	0	0	
+Topic: 5
+0	0	1	
+Topic: 6
+1	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+1	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	1	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+2	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: ready
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+1	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+1	1	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	1	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: five
+Topic: 0
+0	0	0	
+Topic: 1
+0	1	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	1	
+Topic: 5
+0	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	1	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: appear
+Topic: 0
+0	1	1	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	3	
+Topic: 5
+0	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	1	
+Topic: 10
+0	0	0	
+Topic: 11
+0	1	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: try
+Topic: 0
+1	0	2	
+Topic: 1
+0	0	4	
+Topic: 2
+0	2	0	
+Topic: 3
+0	0	0	
+Topic: 4
+2	0	0	
+Topic: 5
+2	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	6	
+Topic: 8
+1	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: improve
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	4	
+Topic: 2
+1	1	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	1	
+Topic: 5
+0	1	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	1	
+Topic: 9
+0	0	1	
+Topic: 10
+0	0	0	
+Topic: 11
+0	1	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: reason
+Topic: 0
+0	0	1	
+Topic: 1
+0	0	5	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	1	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	1	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	2	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	1	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: else
+Topic: 0
+0	0	0	
+Topic: 1
+2	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	1	1	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: machine
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+1	0	1	
+Topic: 5
+0	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	1	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: internet
+Topic: 0
+1	0	0	
+Topic: 1
+0	0	1	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	1	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+1	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: press
+Topic: 0
+1	0	0	
+Topic: 1
+2	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	1	
+Topic: 5
+0	0	3	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	1	
+Topic: 10
+0	0	0	
+Topic: 11
+1	1	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: pleasant
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+2	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	1	
+Topic: 12
+0	0	0	
+Topic: 13
+0	1	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: system
+Topic: 0
+0	1	0	
+Topic: 1
+0	0	1	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+2	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: screen
+Topic: 0
+0	0	0	
+Topic: 1
+8	0	3	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+3	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	2	
+Topic: 10
+1	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	1	
+Topic: 13
+2	2	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: during
+Topic: 0
+2	0	3	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+1	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	1	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: companion
+Topic: 0
+0	0	0	
+Topic: 1
+1	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+1	0	1	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	2	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: listen
+Topic: 0
+0	0	0	
+Topic: 1
+0	1	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	2	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	3	0	
+Topic: 10
+1	1	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: interface
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+2	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+1	0	0	
+Topic: 13
+0	0	1	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: user
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	1	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	2	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	1	
+Topic: 10
+0	0	0	
+Topic: 11
+0	1	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: definition
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+1	1	2	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: significant
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+1	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	2	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	1	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: share
+Topic: 0
+0	0	0	
+Topic: 1
+1	3	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	1	
+Topic: 5
+0	0	0	
+Topic: 6
+0	1	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: kindles
+Topic: 0
+0	0	0	
+Topic: 1
+1	0	1	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+1	0	1	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	1	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: folder
+Topic: 0
+0	0	0	
+Topic: 1
+0	1	3	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	1	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	2	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: card
+Topic: 0
+0	0	0	
+Topic: 1
+0	1	1	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+1	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	1	
+Topic: 13
+2	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: view
+Topic: 0
+0	1	0	
+Topic: 1
+0	2	0	
+Topic: 2
+0	0	3	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	1	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	1	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: update
+Topic: 0
+2	1	17	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	1	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	2	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: ap
+Topic: 0
+0	6	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: stick
+Topic: 0
+0	1	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	2	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	1	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: person
+Topic: 0
+0	0	0	
+Topic: 1
+1	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+3	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	3	0	
+Topic: 11
+0	0	2	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: tree
+Topic: 0
+0	0	0	
+Topic: 1
+3	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: forward
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+1	0	1	
+Topic: 7
+0	0	0	
+Topic: 8
+0	1	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	1	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: future
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	0	0	
+Topic: 6
+0	1	1	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+1	0	0	
+Topic: 11
+2	0	1	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: hopefully
+Topic: 0
+0	0	0	
+Topic: 1
+1	2	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	1	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: source
+Topic: 0
+0	0	0	
+Topic: 1
+0	1	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+2	1	5	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: help
+Topic: 0
+0	0	1	
+Topic: 1
+0	0	0	
+Topic: 2
+1	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+1	1	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	2	1	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: call
+Topic: 0
+0	1	0	
+Topic: 1
+0	0	1	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	1	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	1	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: apple
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	1	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	1	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	2	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: previous
+Topic: 0
+0	0	0	
+Topic: 1
+1	0	0	
+Topic: 2
+0	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	1	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	2	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: leave
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	6	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+1	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: often
+Topic: 0
+1	3	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+2	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+3	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+1	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: ipod
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	2	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	1	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	1	
+Topic: 12
+0	0	0	
+Topic: 13
+3	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: main
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	1	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	1	
+Topic: 12
+0	0	0	
+Topic: 13
+0	1	2	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: lack
+Topic: 0
+0	0	0	
+Topic: 1
+1	0	0	
+Topic: 2
+0	1	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	1	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: function
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+3	0	1	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: allow
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	2	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	1	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: photo
+Topic: 0
+2	0	2	
+Topic: 1
+0	0	1	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	1	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+1	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: expect
+Topic: 0
+0	0	1	
+Topic: 1
+2	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	1	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	1	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: add
+Topic: 0
+0	0	0	
+Topic: 1
+5	0	3	
+Topic: 2
+0	1	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+1	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: material
+Topic: 0
+1	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+1	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	1	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	1	0	
+Topic: 10
+0	0	0	
+Topic: 11
+1	0	2	
+Topic: 12
+1	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	1	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: star
+Topic: 0
+0	1	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	1	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	2	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	1	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: certainly
+Topic: 0
+1	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	1	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+1	0	1	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: mine
+Topic: 0
+0	0	0	
+Topic: 1
+1	1	2	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: lay
+Topic: 0
+1	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+2	0	2	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: several
+Topic: 0
+2	0	2	
+Topic: 1
+0	0	1	
+Topic: 2
+0	1	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	1	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: ok
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	1	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	2	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	1	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: provide
+Topic: 0
+3	0	0	
+Topic: 1
+1	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	1	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	1	1	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: odd
+Topic: 0
+2	4	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	1	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: information
+Topic: 0
+0	0	0	
+Topic: 1
+0	1	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+8	0	1	
+Topic: 6
+3	1	1	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	1	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: tiny
+Topic: 0
+1	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	1	
+Topic: 10
+1	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: current
+Topic: 0
+4	0	0	
+Topic: 1
+0	1	1	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+1	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: yes
+Topic: 0
+0	0	0	
+Topic: 1
+2	0	3	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	2	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	3	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: check
+Topic: 0
+0	0	0	
+Topic: 1
+1	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	1	0	
+Topic: 6
+0	0	0	
+Topic: 7
+1	3	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+2	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: portable
+Topic: 0
+0	0	0	
+Topic: 1
+1	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+1	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+1	0	2	
+Topic: 11
+0	0	0	
+Topic: 12
+0	1	0	
+Topic: 13
+0	2	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: e-ink
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	1	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+3	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: browser
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+5	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+1	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+1	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: evil
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+1	0	3	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	1	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: charge
+Topic: 0
+0	0	0	
+Topic: 1
+4	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	1	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	1	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	1	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: document
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+1	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+1	1	0	
+Topic: 13
+1	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: send
+Topic: 0
+3	0	0	
+Topic: 1
+0	0	2	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	1	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+1	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: wirelessly
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	2	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+1	0	0	
+Topic: 13
+0	0	1	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: cent
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	0	0	
+Topic: 6
+1	0	0	
+Topic: 7
+1	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	1	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: daily
+Topic: 0
+1	0	4	
+Topic: 1
+0	0	0	
+Topic: 2
+0	1	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	3	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	2	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	1	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	1	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: nothing
+Topic: 0
+0	3	0	
+Topic: 1
+0	1	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: ad
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	5	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	1	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: dead
+Topic: 0
+0	1	3	
+Topic: 1
+0	0	1	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+1	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: glass
+Topic: 0
+1	0	1	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	1	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: active
+Topic: 0
+2	2	1	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	1	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: area
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+2	0	4	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	1	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	1	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+2	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: onion
+Topic: 0
+0	0	1	
+Topic: 1
+0	0	0	
+Topic: 2
+1	1	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+3	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	1	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: today
+Topic: 0
+0	0	0	
+Topic: 1
+0	1	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	1	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	1	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	1	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	1	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: column
+Topic: 0
+0	1	0	
+Topic: 1
+0	0	1	
+Topic: 2
+0	2	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: black
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	1	
+Topic: 2
+0	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	1	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	1	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	1	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: white
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	2	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+2	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+1	1	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	1	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: weekly
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	1	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+2	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: hit
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	3	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	1	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: wake
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	1	
+Topic: 2
+1	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+1	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: travel
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	2	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	1	0	
+Topic: 6
+1	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: regular
+Topic: 0
+0	0	0	
+Topic: 1
+0	1	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+1	1	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: swindle
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	1	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	3	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: nice
+Topic: 0
+0	0	1	
+Topic: 1
+0	0	4	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+3	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	4	0	
+Topic: 10
+0	0	0	
+Topic: 11
+1	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: knowledge
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	3	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: printing
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	1	
+Topic: 2
+0	2	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: drm
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+1	1	5	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	5	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	1	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: note
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+2	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	2	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	1	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	1	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: type
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	1	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	6	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: believe
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	1	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	3	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: flaw
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+3	1	1	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: cool
+Topic: 0
+0	0	0	
+Topic: 1
+4	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	1	1	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: live
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	4	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	1	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	1	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: top
+Topic: 0
+2	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	2	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: light
+Topic: 0
+1	1	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+1	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	1	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	1	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: faster
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+3	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	2	
+Topic: 9
+0	0	1	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: somewhat
+Topic: 0
+0	0	0	
+Topic: 1
+0	1	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	1	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	1	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: extra
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	1	
+Topic: 2
+0	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	1	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	1	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: realize
+Topic: 0
+0	0	0	
+Topic: 1
+1	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+1	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: model
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+1	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	2	
+Topic: 9
+0	0	0	
+Topic: 10
+1	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: fine
+Topic: 0
+1	0	1	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	1	
+Topic: 8
+0	1	0	
+Topic: 9
+0	0	0	
+Topic: 10
+1	0	0	
+Topic: 11
+0	0	1	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: line
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	0	4	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: edge
+Topic: 0
+0	0	0	
+Topic: 1
+2	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	2	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+1	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: exactly
+Topic: 0
+0	0	1	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+1	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	1	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: le
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+1	0	0	
+Topic: 3
+1	2	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: monde
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+2	0	2	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: near
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+1	1	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	2	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: ago
+Topic: 0
+0	2	3	
+Topic: 1
+0	0	1	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+1	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: national
+Topic: 0
+0	0	2	
+Topic: 1
+0	0	0	
+Topic: 2
+1	1	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: international
+Topic: 0
+0	1	0	
+Topic: 1
+0	0	0	
+Topic: 2
+1	0	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+1	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: well-written
+Topic: 0
+0	0	4	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: length
+Topic: 0
+0	0	2	
+Topic: 1
+1	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	1	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: informative
+Topic: 0
+0	3	1	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: date
+Topic: 0
+0	0	8	
+Topic: 1
+0	0	0	
+Topic: 2
+1	1	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: reuters
+Topic: 0
+1	4	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: highly
+Topic: 0
+2	1	5	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	1	
+Topic: 6
+1	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: writing
+Topic: 0
+1	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	2	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	1	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: archaeology
+Topic: 0
+0	4	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: generally
+Topic: 0
+2	0	1	
+Topic: 1
+0	0	1	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+2	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: presentation
+Topic: 0
+2	0	1	
+Topic: 1
+0	0	0	
+Topic: 2
+0	1	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: pesky
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	3	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	1	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: k1
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	1	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	1	1	
+Topic: 10
+3	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: k2
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	4	
+Topic: 10
+1	1	2	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: wine
+Topic: 0
+5	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: tech
+Topic: 0
+8	0	1	
+Topic: 1
+0	0	1	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: reporting
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	4	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: selection
+Topic: 0
+0	0	1	
+Topic: 1
+0	2	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+2	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: soggy
+Topic: 0
+0	0	0	
+Topic: 1
+0	1	0	
+Topic: 2
+0	0	3	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: item
+Topic: 0
+2	0	0	
+Topic: 1
+0	0	1	
+Topic: 2
+1	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+1	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: beloved
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	3	1	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: green
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	3	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	2	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: friend
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+2	0	2	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: restriction
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	4	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: intuitive
+Topic: 0
+0	0	0	
+Topic: 1
+0	0	0	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+1	1	0	
+Topic: 12
+0	2	0	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+
+Word: control
+Topic: 0
+0	0	0	
+Topic: 1
+0	1	3	
+Topic: 2
+0	0	0	
+Topic: 3
+0	0	0	
+Topic: 4
+0	0	0	
+Topic: 5
+0	0	0	
+Topic: 6
+0	0	0	
+Topic: 7
+0	0	0	
+Topic: 8
+0	0	0	
+Topic: 9
+0	0	0	
+Topic: 10
+0	0	0	
+Topic: 11
+0	0	0	
+Topic: 12
+0	0	1	
+Topic: 13
+0	0	0	
+Topic: 14
+0	0	0	
+Topic: 15
+0	0	0	
+Topic: 16
+0	0	0	
+Topic: 17
+0	0	0	
+

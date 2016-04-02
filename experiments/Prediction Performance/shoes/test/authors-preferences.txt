@@ -1,0 +1,5320 @@
+Author:A1040KGRJPZO8G
+    0	    0	    0 
+    1	    0	   21 
+    2	    0	    0 
+    3	    0	    0 
+    4	    4	   10 
+
+Author:A105XE9Q2XWWZ3
+    0	    0	    0 
+    1	    0	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	   80 
+
+Author:A10J209X5KQIMV
+    0	  194	    1 
+    1	    1	    0 
+    2	    0	    1 
+    3	    0	    1 
+    4	    0	    0 
+
+Author:A10UCLH64N9KHD
+    0	   62	   21 
+    1	    0	    5 
+    2	    0	    0 
+    3	    0	    0 
+    4	    2	  105 
+
+Author:A110YQF990HXQP
+    0	    0	   82 
+    1	   14	   14 
+    2	    1	    0 
+    3	    0	    0 
+    4	    0	    1 
+
+Author:A11JVU7SD09361
+    0	    4	    0 
+    1	    0	   16 
+    2	    0	    0 
+    3	   42	    4 
+    4	    0	    0 
+
+Author:A11KC562CLP28I
+    0	    1	    1 
+    1	    7	   78 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A11NFJY3T2H3TN
+    0	   40	   12 
+    1	   18	    6 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A11P8S4UTKVUW3
+    0	    0	    0 
+    1	    2	   16 
+    2	    0	    0 
+    3	    0	    0 
+    4	    7	   16 
+
+Author:A11USNA5G7CM7Y
+    0	    0	    0 
+    1	    3	   43 
+    2	    0	    0 
+    3	    0	    0 
+    4	    1	    3 
+
+Author:A125PTSRJDAXE8
+    0	    1	    0 
+    1	    4	   57 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1272WYOA42BKG
+    0	    0	    0 
+    1	    0	  158 
+    2	    0	    0 
+    3	    2	    0 
+    4	    0	    0 
+
+Author:A12NFOSOBIL66P
+    0	    0	   38 
+    1	    7	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	   14	    1 
+
+Author:A12WR0KDA3NORH
+    0	    1	    3 
+    1	   13	   14 
+    2	    0	    0 
+    3	    0	   26 
+    4	   20	    1 
+
+Author:A136O4612RPE5S
+    0	    5	   48 
+    1	    0	    5 
+    2	    0	    0 
+    3	    0	    0 
+    4	    1	    0 
+
+Author:A1377DCN5XBNPM
+    0	   11	    5 
+    1	    0	   29 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A138LEUKYZBKEC
+    0	    4	   10 
+    1	   11	   48 
+    2	    0	    0 
+    3	    2	    1 
+    4	    0	    0 
+
+Author:A13BR1KVBLAM3Q
+    0	    1	    0 
+    1	   17	  105 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A13CP8PTLEFZJZ
+    0	    0	    3 
+    1	   64	    3 
+    2	    0	    0 
+    3	    0	    0 
+    4	    8	   15 
+
+Author:A13EOA2EUW5IEJ
+    0	   41	   23 
+    1	    4	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    1	   51 
+
+Author:A13HF9AKL1GJU0
+    0	    5	   39 
+    1	    8	    2 
+    2	   35	    2 
+    3	    0	    0 
+    4	    4	   40 
+
+Author:A13QRJ6H2AOP2W
+    0	    1	    2 
+    1	    0	   26 
+    2	    0	    0 
+    3	    0	    0 
+    4	    4	    1 
+
+Author:A141IUB4JJPDB1
+    0	    6	    0 
+    1	   42	    9 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	  152 
+
+Author:A1458K3FNCIQO9
+    0	    3	    4 
+    1	    6	   23 
+    2	    0	    0 
+    3	    6	    1 
+    4	    0	   15 
+
+Author:A14ZSZCP28NHBX
+    0	    6	    0 
+    1	  187	   10 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A15EPZ9G1G1S0Z
+    0	   19	    0 
+    1	    0	   71 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A15L2GB64AAKTA
+    0	   13	  732 
+    1	    3	    3 
+    2	    0	    0 
+    3	    0	    1 
+    4	    0	    0 
+
+Author:A15RY42F4696R1
+    0	    3	    4 
+    1	    2	  138 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A15WN1ZR8J9NFQ
+    0	    2	    0 
+    1	    0	   10 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    3 
+
+Author:A15XRRQZJ67X15
+    0	  294	  127 
+    1	    8	    1 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A16D4IQ5U0GHIW
+    0	    0	    0 
+    1	    3	   10 
+    2	    0	    1 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A16H7865QBUP9M
+    0	    0	    0 
+    1	   11	   10 
+    2	    0	    0 
+    3	    6	    0 
+    4	    0	    0 
+
+Author:A16I8QNZWE5MVU
+    0	    8	   48 
+    1	   17	   87 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A16LLURHDD4ZWL
+    0	    2	   47 
+    1	    0	    2 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A16NSJ43EIJLGF
+    0	    5	   10 
+    1	    6	   51 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A16UZVITAMU6VT
+    0	    0	    1 
+    1	    0	  119 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A16VTABDZIV3VC
+    0	    4	    1 
+    1	    6	    1 
+    2	    3	    0 
+    3	    2	    1 
+    4	   10	    1 
+
+Author:A171SOU49WBY9Q
+    0	    0	    0 
+    1	    2	   13 
+    2	    0	    0 
+    3	    0	   10 
+    4	    3	    0 
+
+Author:A17D22NBYIP3ND
+    0	  131	    7 
+    1	    2	    4 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A17G92NT460RVK
+    0	    5	    0 
+    1	    0	   71 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A17K5BDU4VCSNP
+    0	    0	    0 
+    1	   11	   45 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A17QRVOSA9EDBT
+    0	    9	   69 
+    1	    0	    1 
+    2	    0	    0 
+    3	    1	    0 
+    4	    0	    0 
+
+Author:A17SFVU4YQX9P4
+    0	  195	    4 
+    1	    2	   57 
+    2	    1	    0 
+    3	    1	    0 
+    4	    0	    0 
+
+Author:A17V03TSCMKFJL
+    0	    0	    1 
+    1	    0	   15 
+    2	    0	    0 
+    3	    0	    0 
+    4	   11	    0 
+
+Author:A17Z35VJSAMA9P
+    0	    1	    1 
+    1	    0	  226 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A189H8NPEQN58F
+    0	   18	   57 
+    1	   22	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	   17	    0 
+
+Author:A18V4FM7YUNTJW
+    0	    0	    1 
+    1	    4	   32 
+    2	    0	    0 
+    3	   11	    9 
+    4	    3	    0 
+
+Author:A195ROJ03KDKFN
+    0	    4	    0 
+    1	    0	   11 
+    2	    0	    0 
+    3	   11	    0 
+    4	    1	   43 
+
+Author:A19FYHR3II1JLG
+    0	    2	    1 
+    1	    1	   61 
+    2	    0	    0 
+    3	   50	   36 
+    4	    1	    0 
+
+Author:A19GVRDGMRGAOD
+    0	    0	    0 
+    1	    0	   75 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A19NI79ISOJTAO
+    0	    9	    0 
+    1	    7	   52 
+    2	    0	    0 
+    3	    0	    0 
+    4	    2	    2 
+
+Author:A19NJZYYSYJXV8
+    0	    0	   99 
+    1	    2	    3 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1A613HT7660SO
+    0	    0	    6 
+    1	   18	    3 
+    2	    0	    1 
+    3	    0	    0 
+    4	   17	    6 
+
+Author:A1A6W8D0DDUDU3
+    0	    5	    0 
+    1	    0	    0 
+    2	    0	    0 
+    3	    8	   10 
+    4	    0	   14 
+
+Author:A1AHFV48UOP2QL
+    0	    0	    0 
+    1	    0	    4 
+    2	    0	    0 
+    3	    4	  200 
+    4	    0	    0 
+
+Author:A1AJ0PPUP6R0CW
+    0	    1	    0 
+    1	    3	   32 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1ALLVV9STBZMY
+    0	    0	   63 
+    1	    0	    1 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1AOJAQICW8MPC
+    0	    0	    0 
+    1	    0	   20 
+    2	    0	    0 
+    3	   17	    0 
+    4	    0	    0 
+
+Author:A1ATLJGEASTPRC
+    0	    4	    6 
+    1	    9	    2 
+    2	    1	    0 
+    3	    1	    1 
+    4	    0	    0 
+
+Author:A1AZ67AS3KY67F
+    0	    0	    0 
+    1	    0	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	   64 
+
+Author:A1B7K5A4V678ZO
+    0	  173	    4 
+    1	    9	    6 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1B8K107LPUPKW
+    0	    0	   82 
+    1	    8	    6 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1BC4OQVAL75AK
+    0	    8	   16 
+    1	    0	    2 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1BOIBXVZKHHYE
+    0	   11	    0 
+    1	    6	  158 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1BP8ALILLGU1Z
+    0	  157	    0 
+    1	   22	   10 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1BTJDQ1D61QCN
+    0	    0	    0 
+    1	    1	    5 
+    2	    0	    0 
+    3	    0	  222 
+    4	    0	    0 
+
+Author:A1C6HLP7XKZGBE
+    0	    0	    1 
+    1	    0	   15 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1C9IZGFRJIAVB
+    0	    0	   89 
+    1	    4	    3 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1CI9HG57GADNE
+    0	    2	    1 
+    1	    3	   36 
+    2	    0	    0 
+    3	    0	    3 
+    4	    0	    0 
+
+Author:A1CO0GXU2A5EIE
+    0	    0	    0 
+    1	    0	   55 
+    2	    0	    0 
+    3	    1	    0 
+    4	    0	    0 
+
+Author:A1D1IHK5SJE8AQ
+    0	    3	   28 
+    1	    1	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1DEVK1KQHWO45
+    0	    0	    0 
+    1	    7	    0 
+    2	    0	    0 
+    3	    3	   25 
+    4	   15	    1 
+
+Author:A1DL80JXHTQS5W
+    0	   25	    9 
+    1	    1	    3 
+    2	    0	    0 
+    3	    0	    0 
+    4	   23	    2 
+
+Author:A1DLXISNY32EOB
+    0	    0	    0 
+    1	    0	  104 
+    2	    0	    0 
+    3	    0	    6 
+    4	   31	   13 
+
+Author:A1DUZ1S5QQ2707
+    0	    5	    0 
+    1	    3	   23 
+    2	    0	    0 
+    3	    0	    0 
+    4	   13	    4 
+
+Author:A1DWLIZXJQZDGG
+    0	   63	  458 
+    1	    1	    2 
+    2	    1	    0 
+    3	    0	    7 
+    4	    0	    0 
+
+Author:A1DYXVSRZFP8ZG
+    0	    4	   63 
+    1	    3	    3 
+    2	    0	    0 
+    3	    0	    5 
+    4	    0	    0 
+
+Author:A1E8KJK6N7DNWA
+    0	  311	  149 
+    1	    0	    4 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1ECYZ34MB5SIL
+    0	    0	    0 
+    1	    0	    0 
+    2	    0	  243 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1EHRFKCP8GQXP
+    0	    0	    5 
+    1	    0	    0 
+    2	    2	    1 
+    3	    0	   56 
+    4	    0	    0 
+
+Author:A1EI723QL2KYT9
+    0	    1	    0 
+    1	   11	  477 
+    2	    0	    0 
+    3	    0	    0 
+    4	    1	    0 
+
+Author:A1EPI1LG2XXKQC
+    0	    4	    1 
+    1	    4	    4 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    9 
+
+Author:A1F1U8BGC8ZHRA
+    0	    0	    0 
+    1	    5	   14 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1FB3S6PYPPISF
+    0	    0	    0 
+    1	   12	    4 
+    2	    0	    0 
+    3	    0	    0 
+    4	    1	   13 
+
+Author:A1FF3P7JKKW9JU
+    0	    0	    0 
+    1	    0	   21 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1FLA7SM4HTJJU
+    0	    0	   51 
+    1	    1	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1FTU4BE6JL8KH
+    0	    2	    5 
+    1	    7	    2 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1FVXO4RUHH7EY
+    0	    1	    5 
+    1	    0	    5 
+    2	    0	    0 
+    3	    0	    2 
+    4	    2	    0 
+
+Author:A1G5N2MLI524HV
+    0	    0	    6 
+    1	    5	   16 
+    2	    0	    0 
+    3	    0	    1 
+    4	    6	    0 
+
+Author:A1G6V81FXD6169
+    0	    2	    0 
+    1	    1	   16 
+    2	    0	    0 
+    3	    0	    0 
+    4	    5	    0 
+
+Author:A1G96BRK3AHQDK
+    0	    0	    0 
+    1	    3	   15 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1GAPE9PIYOKU5
+    0	   20	  178 
+    1	    2	   13 
+    2	    0	    0 
+    3	    2	    0 
+    4	   20	    1 
+
+Author:A1GDJNGR4ESU2Q
+    0	    1	    0 
+    1	    1	   53 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1GL5V0FBCGH6D
+    0	    0	    1 
+    1	    4	   26 
+    2	    0	    0 
+    3	    0	    0 
+    4	    1	    0 
+
+Author:A1GOFXPGA7B36W
+    0	    0	    0 
+    1	    1	   12 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1GZELZDV5AJJS
+    0	    0	    0 
+    1	    0	   28 
+    2	    0	    0 
+    3	    0	    0 
+    4	    7	   43 
+
+Author:A1H6L23LVQ1JFP
+    0	    1	    1 
+    1	   27	    0 
+    2	    0	    0 
+    3	    3	    1 
+    4	    0	    0 
+
+Author:A1HBR7M3J9RA0L
+    0	    1	    0 
+    1	    4	   34 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1HV7ZMY6JZ615
+    0	    6	   54 
+    1	    0	   68 
+    2	    0	    0 
+    3	    0	    0 
+    4	    8	   35 
+
+Author:A1HXOCD4M5QT4P
+    0	    0	    4 
+    1	    0	   85 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    1 
+
+Author:A1I0FAUQICQ15Y
+    0	   10	   11 
+    1	    2	   44 
+    2	    0	    0 
+    3	   10	    0 
+    4	   10	    9 
+
+Author:A1I29MOSJ0WRNH
+    0	    1	   25 
+    1	   17	   12 
+    2	    0	    0 
+    3	   20	    0 
+    4	    4	   11 
+
+Author:A1IAJ98G3W48S5
+    0	   24	  373 
+    1	    9	    6 
+    2	    0	    0 
+    3	    1	    1 
+    4	    0	    0 
+
+Author:A1IMGQQ2DI0815
+    0	    8	   63 
+    1	    2	  191 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1IOJ3D38A6VK2
+    0	    2	    1 
+    1	    2	   51 
+    2	    0	    4 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1IRLOYRU1R1GG
+    0	    2	   43 
+    1	    5	   39 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	   13 
+
+Author:A1IS9VTN9LLFZB
+    0	    0	    0 
+    1	   64	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1IXWKOFH8FE2T
+    0	    2	   14 
+    1	    0	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    1	    0 
+
+Author:A1J9FUKJO8LP47
+    0	   11	    0 
+    1	    7	   28 
+    2	    0	    0 
+    3	    0	    0 
+    4	    1	    1 
+
+Author:A1JBGYTCFDCG0
+    0	    0	    1 
+    1	    0	   31 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1JFA0M9K09559
+    0	    1	    0 
+    1	    2	   42 
+    2	    0	    0 
+    3	    0	    0 
+    4	    3	    0 
+
+Author:A1JK3X941H3CKV
+    0	    0	    5 
+    1	    2	   13 
+    2	    0	    0 
+    3	    0	    1 
+    4	    1	   32 
+
+Author:A1JLPSGFOHVC5J
+    0	    0	    0 
+    1	    0	   14 
+    2	    0	    0 
+    3	    0	    0 
+    4	    2	   12 
+
+Author:A1JOD4BXDGYNET
+    0	    8	  232 
+    1	    0	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1K5Y1LHD2UFA0
+    0	    1	    5 
+    1	    3	   14 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1K8VROZK7T53M
+    0	    2	    9 
+    1	    0	   31 
+    2	    0	    0 
+    3	    1	    3 
+    4	    5	    5 
+
+Author:A1KCU3I8ULH69M
+    0	    1	   62 
+    1	    5	    2 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1KCXCS3RA3AR3
+    0	    8	   21 
+    1	    2	    2 
+    2	    0	    0 
+    3	    0	    0 
+    4	    2	    7 
+
+Author:A1KKVJQMCWJOQ1
+    0	    2	    0 
+    1	    3	   64 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1KYLIWKZMVP4S
+    0	    0	    1 
+    1	   41	    3 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1L0KVEO5GSIS3
+    0	    0	    2 
+    1	    1	    9 
+    2	    0	    0 
+    3	    0	    4 
+    4	   20	    0 
+
+Author:A1L7XU8KGKKFR4
+    0	    7	   10 
+    1	    0	   40 
+    2	    0	    1 
+    3	    0	    1 
+    4	    2	    1 
+
+Author:A1M9IV6KWN18ZB
+    0	    0	    9 
+    1	    1	    9 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1MGKH26XKXELN
+    0	    1	    1 
+    1	    1	    0 
+    2	    0	    0 
+    3	    0	   21 
+    4	    0	    0 
+
+Author:A1MNFLQQET5KFH
+    0	    4	   11 
+    1	    0	    1 
+    2	    0	    0 
+    3	    2	   18 
+    4	    1	    1 
+
+Author:A1MQVH81YFK502
+    0	    3	   70 
+    1	   10	    2 
+    2	    3	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1N5G869U0QRE8
+    0	    1	    0 
+    1	    0	   17 
+    2	    0	    0 
+    3	   13	    8 
+    4	    0	    1 
+
+Author:A1NCLEVR9RXK5X
+    0	    6	   11 
+    1	    0	    6 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    1 
+
+Author:A1NDA6BWF8W7L1
+    0	    1	   10 
+    1	    8	   76 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1NNDTCKF41J6H
+    0	   36	   12 
+    1	    0	   84 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1O1FNHI2SFD0C
+    0	    0	    2 
+    1	  121	   95 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1O6CEL2WK715P
+    0	    0	   26 
+    1	    0	   20 
+    2	    0	    0 
+    3	    3	    0 
+    4	    2	    7 
+
+Author:A1ODSCMFS771SH
+    0	    0	    0 
+    1	    3	   84 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1OGLQ15MM9S0M
+    0	   10	    8 
+    1	    0	    1 
+    2	    0	    0 
+    3	    0	    0 
+    4	    1	    0 
+
+Author:A1OTN8AUADJDV9
+    0	    2	    0 
+    1	    0	   34 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1OXRMH9AODP1
+    0	    0	    0 
+    1	    0	   16 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1P1X4IW5AUVRJ
+    0	   22	  270 
+    1	    9	   35 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1P5CRAOIMNLJG
+    0	    4	    1 
+    1	   17	    3 
+    2	    0	    0 
+    3	   12	   11 
+    4	    0	    0 
+
+Author:A1PA2QKU3GFS1Y
+    0	    0	  139 
+    1	    0	    2 
+    2	    0	    0 
+    3	    0	   68 
+    4	   14	   11 
+
+Author:A1PC1ECLDJLC97
+    0	    5	    4 
+    1	    3	   57 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1PIKR4DPDL54H
+    0	    1	    0 
+    1	    3	   50 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1PNT1D0OBHLPV
+    0	    0	    2 
+    1	    0	   15 
+    2	    0	    0 
+    3	    0	    0 
+    4	    3	    4 
+
+Author:A1PS3ZN0CNACEK
+    0	    0	    3 
+    1	    0	    0 
+    2	    0	    0 
+    3	    2	    1 
+    4	   16	    0 
+
+Author:A1PTXXFDPXEHPZ
+    0	    0	    0 
+    1	    2	   23 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	   15 
+
+Author:A1PU5LM0AUYPCM
+    0	    7	   50 
+    1	    0	   31 
+    2	    0	    0 
+    3	   11	    0 
+    4	    0	   40 
+
+Author:A1Q265UA2HATCQ
+    0	    6	    2 
+    1	    0	   17 
+    2	    0	    0 
+    3	    0	    0 
+    4	    6	    0 
+
+Author:A1QH51F98GFNM7
+    0	    0	    0 
+    1	   44	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1QJTNOMOQ13JI
+    0	    0	    0 
+    1	    0	    5 
+    2	    0	    0 
+    3	   24	    0 
+    4	    1	    0 
+
+Author:A1QL7YD7H0FU7L
+    0	    0	   17 
+    1	    0	   58 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1QO76RZO5FHMG
+    0	    1	    0 
+    1	    2	   10 
+    2	    0	    0 
+    3	    0	  206 
+    4	    0	    0 
+
+Author:A1QOP2KHGJLLZH
+    0	   11	    5 
+    1	    7	   39 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1QTH7VSY08PCX
+    0	    1	   56 
+    1	    9	   20 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1QYRJYL6KLVPC
+    0	    0	    0 
+    1	    0	   11 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1RASSE5POVMZJ
+    0	   56	    6 
+    1	    3	    4 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1RL08RN3PO016
+    0	    5	    1 
+    1	    8	   41 
+    2	    0	    0 
+    3	    0	    0 
+    4	    3	    2 
+
+Author:A1RRCHGTKGP8SN
+    0	    0	    0 
+    1	    0	   17 
+    2	    0	    4 
+    3	    0	    0 
+    4	    0	    9 
+
+Author:A1RTZ96I6QA1V5
+    0	    0	    0 
+    1	    0	   17 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1S32ZU1NBT10M
+    0	    0	    0 
+    1	   13	    5 
+    2	    0	    0 
+    3	    0	    3 
+    4	    2	    5 
+
+Author:A1S3WZVFNW0PX1
+    0	    0	    2 
+    1	    0	   29 
+    2	    0	    0 
+    3	    0	   17 
+    4	    3	   13 
+
+Author:A1S5HQTJ2PA8O9
+    0	    0	    1 
+    1	    0	   35 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1SB9CYQNF3BZO
+    0	    3	    0 
+    1	   46	    2 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1SGWJDZP3RHSE
+    0	    1	   58 
+    1	    0	    1 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1SO5T2HZ2L28B
+    0	    7	    3 
+    1	    2	   22 
+    2	    0	    0 
+    3	    0	    0 
+    4	    1	    0 
+
+Author:A1SRVH7M53DYL1
+    0	    2	    0 
+    1	   12	    5 
+    2	    0	    0 
+    3	    0	    0 
+    4	   31	   56 
+
+Author:A1STP1IPS8X91B
+    0	    0	   18 
+    1	   23	    6 
+    2	    0	   28 
+    3	    1	    1 
+    4	    0	    1 
+
+Author:A1T4021ZFAAH5U
+    0	    0	    0 
+    1	    3	   13 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    1 
+
+Author:A1T9VNYRTSZHUA
+    0	    0	    1 
+    1	    1	   38 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1TGECZ7M7SO48
+    0	    0	    2 
+    1	    0	  100 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1THVX1R3FFOBT
+    0	   16	  229 
+    1	   14	   21 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1TKPQKQ5ZVRRU
+    0	    8	    1 
+    1	   14	   23 
+    2	    0	    0 
+    3	    0	    0 
+    4	    5	   24 
+
+Author:A1TNWVLN5RIQQ3
+    0	    3	    8 
+    1	    0	    1 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1TT3FOU03XMSI
+    0	    1	    8 
+    1	    6	    8 
+    2	    8	  162 
+    3	    0	    0 
+    4	    1	    1 
+
+Author:A1TVTQ6UNR8XHE
+    0	   59	   19 
+    1	    2	   78 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1U0U1L80JMAM0
+    0	    3	    3 
+    1	   14	  162 
+    2	    0	    0 
+    3	    0	    2 
+    4	    0	    0 
+
+Author:A1UD6BRIQPCGI4
+    0	    4	    0 
+    1	    5	  127 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1UUB2KFD2TQ9F
+    0	    4	    6 
+    1	    0	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    2	    2 
+
+Author:A1UX7T6R9K91BN
+    0	    0	    0 
+    1	    1	    0 
+    2	    0	    0 
+    3	    0	   77 
+    4	    0	    0 
+
+Author:A1UZDTRN6KQFG5
+    0	    0	    1 
+    1	    0	   35 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1V21DZ10G9Q2N
+    0	    0	    0 
+    1	    0	   28 
+    2	    0	    0 
+    3	    0	    0 
+    4	    2	    0 
+
+Author:A1V5IZ347W5HY5
+    0	    0	    1 
+    1	    4	   58 
+    2	    0	    1 
+    3	    4	   10 
+    4	    0	    6 
+
+Author:A1VRAW0P0ZZ7BK
+    0	    0	    0 
+    1	    0	   25 
+    2	    0	    0 
+    3	    0	    7 
+    4	    0	    0 
+
+Author:A1VW0C21BRWNUE
+    0	    0	   80 
+    1	    1	    6 
+    2	    0	    0 
+    3	    0	    0 
+    4	    1	    0 
+
+Author:A1VZ1TQ2GZOEVW
+    0	    0	   11 
+    1	    1	    4 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    4 
+
+Author:A1W67U1V4EU1PI
+    0	    0	    1 
+    1	    4	   21 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1W8L4QDEDG11M
+    0	    1	    1 
+    1	    4	    4 
+    2	    0	    0 
+    3	    0	  250 
+    4	    0	    0 
+
+Author:A1WI5FRDA3IIIR
+    0	    1	    3 
+    1	    0	   32 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1WPR05FKGQXE
+    0	    1	    1 
+    1	    8	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1WRETGVF6XPOE
+    0	   15	   21 
+    1	   49	   15 
+    2	    0	    0 
+    3	   23	   14 
+    4	   17	    4 
+
+Author:A1WYXV7N49IYTC
+    0	   17	   15 
+    1	   14	  275 
+    2	    0	    0 
+    3	    1	    3 
+    4	    0	    0 
+
+Author:A1XGD7CGVRH0PL
+    0	    0	    3 
+    1	   17	    6 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1XM367NB2E7FQ
+    0	    4	    0 
+    1	   10	   78 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1XMVVPMO4JVVY
+    0	    0	    0 
+    1	    0	   26 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1XWF1Q39XFZ37
+    0	    2	    0 
+    1	  122	    1 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1XYXUV7IFHC4A
+    0	    1	    9 
+    1	    0	   22 
+    2	    0	    0 
+    3	    0	    1 
+    4	    5	    2 
+
+Author:A1Y7AMVTPJTNXS
+    0	    0	    0 
+    1	    0	    0 
+    2	   34	    7 
+    3	    1	    0 
+    4	    0	    0 
+
+Author:A1YB91AY7J9UA6
+    0	    0	    7 
+    1	   13	    8 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1YENRJB6XS65Y
+    0	    3	   16 
+    1	  128	   24 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1YP8MLJTNBYCH
+    0	    0	    0 
+    1	   12	    1 
+    2	    0	    0 
+    3	    7	    0 
+    4	    0	    0 
+
+Author:A1Z9VLI4VD0E2V
+    0	    0	   43 
+    1	    0	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	   10	   10 
+
+Author:A1ZJNJYIL3JQXP
+    0	    1	    0 
+    1	    0	   25 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    2 
+
+Author:A1ZL4PAWNXCOB
+    0	    0	    0 
+    1	    0	   27 
+    2	    0	    0 
+    3	    0	   39 
+    4	    0	    0 
+
+Author:A1ZQ2ZTOHCQ1R4
+    0	    2	   25 
+    1	    4	    7 
+    2	    0	    0 
+    3	    5	   30 
+    4	    1	   14 
+
+Author:A1ZR10Z6AVH4ZA
+    0	    0	    1 
+    1	    0	   35 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A1ZWZZK7A48SUX
+    0	    1	    0 
+    1	    0	    0 
+    2	    1	   98 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A204YU77NGVQN
+    0	    1	    1 
+    1	    0	   48 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A205T6UTC9X0OP
+    0	    0	    1 
+    1	    0	    1 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	   93 
+
+Author:A20HNKLWJOWK6X
+    0	    4	    0 
+    1	    0	    3 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	  236 
+
+Author:A20L1ETPCI4IFV
+    0	    6	   11 
+    1	    5	   14 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A20TBE35ZFM217
+    0	    7	    0 
+    1	   74	   31 
+    2	    0	    0 
+    3	    5	    0 
+    4	    0	    0 
+
+Author:A20V0OZ8OPVMHL
+    0	    0	    9 
+    1	    8	   45 
+    2	    0	    0 
+    3	    2	    0 
+    4	    0	    0 
+
+Author:A20VIHG4J5PMRA
+    0	    0	    3 
+    1	   10	   34 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    1 
+
+Author:A20YUM1V2RNJWG
+    0	    0	    0 
+    1	   15	    1 
+    2	    4	    3 
+    3	    0	    0 
+    4	    1	    4 
+
+Author:A20YYYU3NNYGQY
+    0	    0	    3 
+    1	    0	   21 
+    2	    0	    0 
+    3	   25	    2 
+    4	   14	    1 
+
+Author:A213AVSWLU7SVP
+    0	    1	    0 
+    1	   79	    7 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A21LSPOL66I9J8
+    0	    0	    0 
+    1	   38	  146 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A22DPV51XKU86L
+    0	   16	    1 
+    1	    1	    5 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A22N3MU8RQC8S3
+    0	    5	   11 
+    1	   13	   16 
+    2	    0	    0 
+    3	    0	    0 
+    4	    2	   57 
+
+Author:A22XC8DDH4Q0AA
+    0	    0	    0 
+    1	   35	    8 
+    2	    0	    0 
+    3	    0	    0 
+    4	    8	    0 
+
+Author:A2332NLO5J7G1V
+    0	    2	   24 
+    1	   17	    1 
+    2	    1	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A23FRR1X1VVPZD
+    0	    2	    4 
+    1	    3	   54 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    1 
+
+Author:A23NW80QUOQQ3G
+    0	    0	    0 
+    1	    0	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	   19	   63 
+
+Author:A23QAXAR805XX9
+    0	   89	    1 
+    1	    0	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A23SAZVJO6GTV6
+    0	    1	    0 
+    1	    0	    7 
+    2	    2	   95 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A24EQM995FIE6M
+    0	    2	    0 
+    1	    3	    0 
+    2	    2	   18 
+    3	    0	    0 
+    4	    3	    7 
+
+Author:A24GXYGR5XYOKA
+    0	    0	    6 
+    1	   31	    8 
+    2	    7	    0 
+    3	    0	   71 
+    4	    7	   47 
+
+Author:A24N83N7PCDUQP
+    0	    0	    0 
+    1	    0	    1 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	   17 
+
+Author:A24NHJBK8YM7YB
+    0	    4	   10 
+    1	    0	   57 
+    2	    0	    0 
+    3	    0	    0 
+    4	    2	    1 
+
+Author:A24P489L3KL2UY
+    0	    5	   12 
+    1	    0	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	   10 
+
+Author:A250GLG6ZR9PQX
+    0	    0	    0 
+    1	    8	   62 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A25H71LO1RNVJR
+    0	    1	   28 
+    1	   21	   17 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A25H8LT2199AVF
+    0	    0	    1 
+    1	    0	    3 
+    2	   18	   14 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A25HYZHO13ANIA
+    0	   16	    0 
+    1	    1	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    7 
+
+Author:A25SQ3D75OMFX7
+    0	   12	  249 
+    1	    0	   22 
+    2	    0	    0 
+    3	    0	    2 
+    4	    0	    0 
+
+Author:A25URYUWJS6FEC
+    0	   13	    0 
+    1	    0	   10 
+    2	    0	    0 
+    3	    4	    1 
+    4	    5	    4 
+
+Author:A267BE0SQHVCAS
+    0	    0	  106 
+    1	    5	    3 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A26GCDP2Z4Z4KP
+    0	    2	    0 
+    1	    0	   23 
+    2	    0	    0 
+    3	    1	    0 
+    4	    8	    0 
+
+Author:A26HM7NRCA1QFX
+    0	    0	    0 
+    1	    1	    8 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A26I86R7OCMPZS
+    0	   16	    2 
+    1	   90	    9 
+    2	    0	    0 
+    3	    1	    0 
+    4	   34	    4 
+
+Author:A26IKBWCSJ2Y9K
+    0	  103	   15 
+    1	    9	    0 
+    2	    1	    2 
+    3	    2	    0 
+    4	    0	    0 
+
+Author:A26KDDC3YBR2M9
+    0	    4	  161 
+    1	   13	    1 
+    2	    0	    0 
+    3	    0	    1 
+    4	    0	    0 
+
+Author:A27758U86J2Z3G
+    0	    4	    0 
+    1	    1	    0 
+    2	    0	    0 
+    3	    0	   19 
+    4	   12	    6 
+
+Author:A27JFX1QTMDGTY
+    0	    3	    1 
+    1	    0	   68 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A27KNTEWSXK4D1
+    0	    0	    0 
+    1	    8	   39 
+    2	    0	    0 
+    3	    0	    0 
+    4	    3	    3 
+
+Author:A27PHHG7047FOC
+    0	    2	   94 
+    1	    1	    3 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A27VFCY4CT4F9S
+    0	    0	    4 
+    1	    0	  124 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A287326NYNJ4ZZ
+    0	    0	    0 
+    1	    2	   68 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A28BKBEL5NT010
+    0	    1	   10 
+    1	   18	   59 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A28M5VFTNSBNWJ
+    0	    3	    3 
+    1	    1	   20 
+    2	    0	    0 
+    3	    0	    0 
+    4	    1	    0 
+
+Author:A28QL1FE8GIDZK
+    0	    6	    3 
+    1	    1	    2 
+    2	    0	   84 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A28S35004WFPY0
+    0	   13	   18 
+    1	    2	   15 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A28T2ZPWI6DN84
+    0	    0	    0 
+    1	    3	   20 
+    2	    0	    0 
+    3	    0	    2 
+    4	   37	    8 
+
+Author:A28TDY1JNP271
+    0	    1	    0 
+    1	    6	    0 
+    2	    0	    1 
+    3	   70	    2 
+    4	    0	    0 
+
+Author:A29A8PXE9MGYNN
+    0	    0	    2 
+    1	    0	   18 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A29AN85MXHGCXS
+    0	    0	    0 
+    1	    1	   67 
+    2	    0	    0 
+    3	    0	    1 
+    4	    0	    0 
+
+Author:A29D9CNWEB7BZ
+    0	    0	    0 
+    1	    3	   13 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A29EB0XGH76CZB
+    0	    0	    0 
+    1	    0	   17 
+    2	    1	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A29HYGQL8X7MI8
+    0	    1	    1 
+    1	    0	   15 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    9 
+
+Author:A29OOP3MMUNTXG
+    0	    0	  195 
+    1	    1	    9 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A29OSD6HLBDNH7
+    0	    0	   10 
+    1	    1	   18 
+    2	    0	    0 
+    3	   12	    3 
+    4	    0	    0 
+
+Author:A2A4C0IRW8OMIK
+    0	    4	    6 
+    1	    2	   23 
+    2	    0	    0 
+    3	    0	    0 
+    4	    2	    8 
+
+Author:A2A7QJCK4ONBUZ
+    0	    7	    3 
+    1	    0	   14 
+    2	    0	    0 
+    3	    0	    0 
+    4	   16	    2 
+
+Author:A2AQRVJUV4SKY9
+    0	    0	    0 
+    1	    7	    0 
+    2	    0	    4 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2AWDAJOV50842
+    0	    2	  517 
+    1	    1	    2 
+    2	    0	    0 
+    3	    2	    0 
+    4	    0	    0 
+
+Author:A2B9MGN6E1BM4S
+    0	    5	    9 
+    1	    1	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    6	   27 
+
+Author:A2BB69GGEIVQP2
+    0	   12	    7 
+    1	   14	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2BDO50U4I70AS
+    0	    1	    3 
+    1	    8	    0 
+    2	    0	    0 
+    3	    6	   27 
+    4	    0	    0 
+
+Author:A2BG3DLVG5I8M4
+    0	    0	    0 
+    1	    2	   29 
+    2	    0	    0 
+    3	    0	    0 
+    4	    1	    0 
+
+Author:A2BVAGJLIKHCOS
+    0	    2	   25 
+    1	    2	  121 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2CIHHACEKVRBL
+    0	    0	    0 
+    1	    0	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    4	   24 
+
+Author:A2CKGPCDOM8GHA
+    0	    0	    1 
+    1	    2	   10 
+    2	    1	   35 
+    3	    4	    3 
+    4	   14	    8 
+
+Author:A2CLTJ1A0HBA8T
+    0	    3	   18 
+    1	    0	    1 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2CU6ACNI3FS6B
+    0	   20	    3 
+    1	  120	    1 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2CYH6TZP3IFJC
+    0	    0	    8 
+    1	   12	   92 
+    2	    0	    0 
+    3	    7	  101 
+    4	    0	    0 
+
+Author:A2D0SQMGNGI8MG
+    0	    8	    5 
+    1	    0	    3 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2DTYKCT5LFZ4W
+    0	    0	  160 
+    1	    0	    5 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2ED7ZZHTO3ZGY
+    0	    3	   10 
+    1	   10	    1 
+    2	  110	  926 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2ED9TWT2THQGC
+    0	    1	    3 
+    1	    8	   40 
+    2	    0	    0 
+    3	    0	    0 
+    4	   11	    1 
+
+Author:A2EE2PA38042RZ
+    0	    0	    0 
+    1	   23	    9 
+    2	   12	    0 
+    3	    0	    1 
+    4	    2	   13 
+
+Author:A2EQL0ZD83OL1X
+    0	    7	    2 
+    1	    1	   85 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2ETB9JKVTHSEI
+    0	    7	    1 
+    1	    3	    2 
+    2	    0	    0 
+    3	    8	    0 
+    4	    0	    0 
+
+Author:A2FBWZBGHMZF2H
+    0	    1	    1 
+    1	    1	   10 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2FN58M5LPT6XS
+    0	    0	    0 
+    1	    4	   11 
+    2	    0	    0 
+    3	    0	    0 
+    4	    3	    2 
+
+Author:A2FRFAQCWZJT3Q
+    0	    8	   19 
+    1	    5	   13 
+    2	    0	    0 
+    3	   18	  777 
+    4	   23	    1 
+
+Author:A2FV38S4HLR5AP
+    0	   11	    2 
+    1	    4	   17 
+    2	    0	    0 
+    3	    0	    0 
+    4	    4	    0 
+
+Author:A2FW72O5VU3SAL
+    0	    2	    5 
+    1	    6	    0 
+    2	    0	    0 
+    3	    1	    1 
+    4	    3	    1 
+
+Author:A2G2129UP0HZB8
+    0	    4	    3 
+    1	    0	   47 
+    2	    0	    0 
+    3	    0	    0 
+    4	    3	    9 
+
+Author:A2GG30YGPPOIYY
+    0	    0	    0 
+    1	    1	   24 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2GJWQJD94UT5W
+    0	    0	    0 
+    1	    1	    3 
+    2	    0	    0 
+    3	   58	   49 
+    4	    0	    0 
+
+Author:A2GN7AZE8QLLVU
+    0	    0	    9 
+    1	    0	    5 
+    2	    0	    0 
+    3	    6	    0 
+    4	    0	    0 
+
+Author:A2GS3GE2BZY2GV
+    0	    7	   70 
+    1	    3	  157 
+    2	    0	    0 
+    3	    0	    1 
+    4	    2	    0 
+
+Author:A2GTQNYDIAU5G3
+    0	   21	  222 
+    1	    4	    8 
+    2	    0	    0 
+    3	    1	    0 
+    4	    0	    0 
+
+Author:A2GVFDWB7L61OJ
+    0	   60	    1 
+    1	    2	    2 
+    2	    0	    0 
+    3	    1	    0 
+    4	    0	    0 
+
+Author:A2GW0RJAEC3S1X
+    0	    0	    1 
+    1	    3	   54 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2GWG8N5RJ7R9N
+    0	   14	    8 
+    1	   22	    2 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2GXKHLB4F48CW
+    0	    2	    0 
+    1	   13	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    7	  356 
+
+Author:A2GXQ2EIW17Q3R
+    0	    0	  114 
+    1	    0	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2GYK0RW3CATFO
+    0	    0	    2 
+    1	   12	    7 
+    2	    0	    0 
+    3	   11	   58 
+    4	    0	    0 
+
+Author:A2H1MA5NQCIDRM
+    0	    0	    0 
+    1	    0	   16 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2H4FZH5HZPSAD
+    0	   59	   23 
+    1	    1	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2HZH3RSIRPF9E
+    0	    0	   10 
+    1	   10	    6 
+    2	    0	    0 
+    3	    1	    0 
+    4	    2	    3 
+
+Author:A2IBTY5UQEEFPH
+    0	    4	    0 
+    1	    7	    4 
+    2	    2	    8 
+    3	    0	    1 
+    4	    5	    3 
+
+Author:A2IHF8VKZ7YLS0
+    0	   10	    1 
+    1	    5	   40 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2IQVPTKWKW60D
+    0	    0	   47 
+    1	   58	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2ISEO147CJFIU
+    0	    0	    0 
+    1	    2	   16 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2J0GWC5UR47TA
+    0	    0	    0 
+    1	    6	    7 
+    2	    0	    0 
+    3	    0	    0 
+    4	    1	    1 
+
+Author:A2JIS29EXER6F9
+    0	   67	    2 
+    1	    1	    0 
+    2	    0	    2 
+    3	    0	   42 
+    4	    0	    0 
+
+Author:A2JJJRKRLU3W4V
+    0	    3	    7 
+    1	    5	   27 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2JJO0DNB4QV0O
+    0	    0	    0 
+    1	    1	    3 
+    2	    0	    0 
+    3	    5	  125 
+    4	    6	   19 
+
+Author:A2JOL6HHCB590N
+    0	    2	    1 
+    1	    0	   20 
+    2	    0	    0 
+    3	    0	   32 
+    4	    1	    1 
+
+Author:A2JRC5Y1OT8WA4
+    0	    1	   11 
+    1	   22	    1 
+    2	    0	    0 
+    3	    0	    0 
+    4	  122	   59 
+
+Author:A2K059ZURUIHZH
+    0	    5	    0 
+    1	    0	   97 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2KADEVKVRHYNX
+    0	    2	   14 
+    1	   10	   36 
+    2	    0	    0 
+    3	    7	   18 
+    4	    2	    3 
+
+Author:A2KB0ES96E85UZ
+    0	    0	    3 
+    1	    1	    0 
+    2	    0	    0 
+    3	    3	  193 
+    4	    0	    0 
+
+Author:A2KEKOQIM35XJA
+    0	    0	    1 
+    1	    0	   53 
+    2	    0	    0 
+    3	    1	    1 
+    4	    0	    0 
+
+Author:A2KMRP8SLRIZWA
+    0	    4	  127 
+    1	    3	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2L43ZSSKSZHWW
+    0	    4	    0 
+    1	    0	   70 
+    2	    0	    0 
+    3	    0	    0 
+    4	    4	    0 
+
+Author:A2L5LRWB26DYES
+    0	    0	    0 
+    1	    3	   44 
+    2	    0	    0 
+    3	    0	    0 
+    4	    2	    5 
+
+Author:A2L9HDYOQZG0M4
+    0	    0	   63 
+    1	    0	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2LMXN0UG643P5
+    0	    1	  221 
+    1	    0	    8 
+    2	    0	    0 
+    3	    0	    1 
+    4	    0	    0 
+
+Author:A2LPWMDV6H2XYE
+    0	    0	    0 
+    1	    1	    1 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	   10 
+
+Author:A2M443O35XI7EC
+    0	    1	    0 
+    1	    7	   85 
+    2	    0	    0 
+    3	    0	    0 
+    4	    1	    2 
+
+Author:A2M553GC8M5TZY
+    0	    0	    1 
+    1	    0	    1 
+    2	    0	    0 
+    3	    0	    0 
+    4	   17	   35 
+
+Author:A2M68RVJIPCVDF
+    0	    4	    1 
+    1	   19	   48 
+    2	    0	    0 
+    3	    0	    0 
+    4	    2	    0 
+
+Author:A2MBBS78S5ZT0Y
+    0	    0	    1 
+    1	    5	    2 
+    2	    0	    0 
+    3	   18	    1 
+    4	    0	    0 
+
+Author:A2MQUAY0CHLT6S
+    0	    0	    8 
+    1	    0	    5 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2N7HUOCF4LMPY
+    0	    2	   36 
+    1	    0	    1 
+    2	    0	    0 
+    3	    0	    0 
+    4	    1	    2 
+
+Author:A2N986RJNZDGTD
+    0	    1	    7 
+    1	    0	    0 
+    2	    1	   30 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2NQ9XU1UWLBLZ
+    0	    5	    5 
+    1	    0	   11 
+    2	    0	    0 
+    3	    0	   35 
+    4	    0	    0 
+
+Author:A2NS7XM9G2VFVK
+    0	    0	    2 
+    1	    0	   18 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	   13 
+
+Author:A2NUUOIKIL5B7L
+    0	   10	    0 
+    1	    4	    1 
+    2	    0	    0 
+    3	    2	    0 
+    4	    0	    0 
+
+Author:A2O466Z6PGGVPQ
+    0	    5	    1 
+    1	    0	    3 
+    2	    0	    0 
+    3	    9	    0 
+    4	   17	    1 
+
+Author:A2O4MAKMYZS2ND
+    0	    3	    1 
+    1	    7	    0 
+    2	    0	    0 
+    3	   87	    9 
+    4	    1	    0 
+
+Author:A2OB52JRG7MCEA
+    0	    0	    1 
+    1	    4	   31 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2OFP7MPT5Y9VQ
+    0	    0	    0 
+    1	    1	   34 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2OHYN4GENJSFM
+    0	    0	    0 
+    1	    2	   29 
+    2	    0	    0 
+    3	    0	    1 
+    4	    0	    0 
+
+Author:A2OJ0OK1GW34R7
+    0	    2	    0 
+    1	    0	    0 
+    2	    5	    1 
+    3	    0	    0 
+    4	    0	    3 
+
+Author:A2P0SN1X8KKVJS
+    0	    3	  415 
+    1	    0	    5 
+    2	    0	    0 
+    3	    3	    0 
+    4	    0	    0 
+
+Author:A2P36813AB9S1L
+    0	    3	    0 
+    1	    0	    7 
+    2	    0	    0 
+    3	    2	   20 
+    4	   14	   10 
+
+Author:A2P44MVXQO9XXG
+    0	    9	   10 
+    1	    2	   26 
+    2	    0	    1 
+    3	    0	    0 
+    4	    6	    8 
+
+Author:A2PMEVO4CT6425
+    0	    1	    0 
+    1	    5	   29 
+    2	    0	    0 
+    3	    0	    1 
+    4	    0	    0 
+
+Author:A2PUQDASIBHT3V
+    0	    0	    4 
+    1	    2	  218 
+    2	    0	    0 
+    3	    6	    0 
+    4	    0	    0 
+
+Author:A2Q8SUO4AWHJP6
+    0	    0	    2 
+    1	    0	    0 
+    2	    0	    0 
+    3	   13	    6 
+    4	    0	    0 
+
+Author:A2QDX6TJQLVVF2
+    0	    3	    0 
+    1	    9	    0 
+    2	    0	    0 
+    3	    6	    0 
+    4	    0	    0 
+
+Author:A2QGMS1UIVGQVE
+    0	    3	    2 
+    1	  176	    0 
+    2	    0	    0 
+    3	    0	    1 
+    4	    0	    0 
+
+Author:A2QIEGIEH8KFQB
+    0	    1	   13 
+    1	    0	   23 
+    2	    0	    0 
+    3	    0	    0 
+    4	    5	   24 
+
+Author:A2QKFE5SHSS99J
+    0	    0	    9 
+    1	    7	    7 
+    2	    0	    0 
+    3	    0	    0 
+    4	    1	   12 
+
+Author:A2QN0AISC2JIE
+    0	   16	    3 
+    1	    2	    8 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2QTAINI10BT1U
+    0	    1	    0 
+    1	    2	   37 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2QYHU9DW1FI1C
+    0	   27	   29 
+    1	   64	   12 
+    2	    0	    0 
+    3	    0	    0 
+    4	    3	   21 
+
+Author:A2R48DDGKFOMAT
+    0	    3	    2 
+    1	    3	   15 
+    2	    3	    5 
+    3	    2	    0 
+    4	    0	    0 
+
+Author:A2R6UNBE9XKGFY
+    0	    7	    7 
+    1	    2	    1 
+    2	    1	   12 
+    3	    0	    0 
+    4	    3	    3 
+
+Author:A2RQKL8Z1ICKXY
+    0	    0	  112 
+    1	    0	   56 
+    2	    1	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2S2G8OCTF5Y07
+    0	   40	   11 
+    1	    2	    0 
+    2	    0	    0 
+    3	    1	    0 
+    4	    0	    0 
+
+Author:A2SUCW9UYBTRKZ
+    0	    0	    0 
+    1	    1	    0 
+    2	    0	    0 
+    3	    1	   13 
+    4	    0	    0 
+
+Author:A2T046VGK13OSH
+    0	    0	    0 
+    1	    0	   18 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2T091VBTPVPJ6
+    0	   10	    0 
+    1	    1	   26 
+    2	    0	    0 
+    3	   21	    7 
+    4	   16	   19 
+
+Author:A2TAFA1ONM9WT7
+    0	    0	   10 
+    1	    0	   32 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2TDUDPZUN7F2G
+    0	    0	    2 
+    1	    0	   26 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2TESZE3RLW4O6
+    0	   15	    0 
+    1	    0	    2 
+    2	    0	    0 
+    3	    0	    0 
+    4	    1	    0 
+
+Author:A2TLBNLNMM4RDE
+    0	    5	   16 
+    1	    6	   23 
+    2	    0	    0 
+    3	    0	    0 
+    4	    5	    8 
+
+Author:A2UD9MKRJKH9EP
+    0	    5	    4 
+    1	    0	   24 
+    2	    0	    0 
+    3	    0	    0 
+    4	    7	    2 
+
+Author:A2UKH3VT3XMJD3
+    0	    0	    0 
+    1	    2	   24 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    8 
+
+Author:A2UQJAU8RYKPGT
+    0	    1	  340 
+    1	    0	    8 
+    2	    1	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2VDGHBIDTMADG
+    0	    0	    0 
+    1	    1	   14 
+    2	    0	    1 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2VNH85KD5V5AI
+    0	    1	    1 
+    1	    2	  196 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2VS36ZZDSPI4N
+    0	    0	    1 
+    1	    4	   45 
+    2	    0	    0 
+    3	    5	   69 
+    4	    0	    1 
+
+Author:A2VSKYZKMLH1MM
+    0	    0	    0 
+    1	    0	   25 
+    2	    0	    0 
+    3	    0	    0 
+    4	    2	   23 
+
+Author:A2VTDMC7JJ67ZL
+    0	   27	  792 
+    1	    5	    8 
+    2	    0	    0 
+    3	    2	    0 
+    4	    0	    0 
+
+Author:A2VTXNH2DYESBF
+    0	    0	    2 
+    1	    1	    6 
+    2	  120	   11 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2VUQ2LQJYB8WY
+    0	    0	    0 
+    1	    8	    4 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2VXCWGSYB15TK
+    0	  206	   14 
+    1	    2	    2 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2W2WVT8Y97NML
+    0	    0	    2 
+    1	    0	   10 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2WA6YYTE0URQH
+    0	   70	   24 
+    1	    2	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2WXJLFIIRC6NN
+    0	    0	  110 
+    1	    0	   16 
+    2	    0	    0 
+    3	    0	    5 
+    4	    0	    2 
+
+Author:A2X228OPNPTB0C
+    0	    3	    7 
+    1	    6	  203 
+    2	    0	    1 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2XAFYUGCKI8UE
+    0	    0	    0 
+    1	    4	   24 
+    2	    0	    0 
+    3	    0	    0 
+    4	   22	    7 
+
+Author:A2XEBXEVN9TNIS
+    0	    0	    1 
+    1	    1	   93 
+    2	    0	    0 
+    3	    1	    0 
+    4	    0	    0 
+
+Author:A2XUNOJDHUKA7J
+    0	    4	    1 
+    1	   12	   24 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    3 
+
+Author:A2Y0BBHWGNFQCF
+    0	    2	    4 
+    1	    4	   10 
+    2	    0	    0 
+    3	   15	    0 
+    4	    0	    1 
+
+Author:A2Y7PVVAQN3VAW
+    0	   14	   76 
+    1	    1	    2 
+    2	    0	    0 
+    3	    1	    8 
+    4	   11	    5 
+
+Author:A2YDT8UBAQFIFH
+    0	    4	    3 
+    1	   14	   21 
+    2	    0	    0 
+    3	    0	    0 
+    4	    4	    1 
+
+Author:A2YDWDDPXVS59O
+    0	    0	    1 
+    1	   55	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2YGJYK4MSAVIX
+    0	    9	  284 
+    1	    1	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2YNGCLDOPS3BS
+    0	    0	    0 
+    1	    0	    9 
+    2	    0	    0 
+    3	    0	    0 
+    4	    1	    0 
+
+Author:A2YP323KXIBPQ9
+    0	    0	    0 
+    1	    1	   12 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2Z07GAI97WG9M
+    0	    4	   56 
+    1	    5	   31 
+    2	    0	    0 
+    3	    1	    3 
+    4	    0	    0 
+
+Author:A2Z0FSG23Y58RP
+    0	    0	    1 
+    1	    0	   16 
+    2	    0	    0 
+    3	    0	    1 
+    4	    0	    0 
+
+Author:A2ZCLN0BVW2O0
+    0	    8	    1 
+    1	    0	   46 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2ZNGKW7XB0Z64
+    0	    2	    0 
+    1	    0	  166 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2ZODMNDUEW25I
+    0	    8	   30 
+    1	    0	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A2ZTYDRTX4KAV
+    0	    0	    0 
+    1	    0	   24 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A300U6ZODOE604
+    0	    0	    0 
+    1	    0	   48 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A308M7NGAOEV4E
+    0	    0	  258 
+    1	    0	    8 
+    2	    0	    0 
+    3	    1	    3 
+    4	    0	    0 
+
+Author:A30BSPEDJF9YG9
+    0	    0	    0 
+    1	    4	   10 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A30GXNE25FJM1G
+    0	    1	    0 
+    1	    8	   27 
+    2	    0	    0 
+    3	    3	    5 
+    4	    0	    0 
+
+Author:A30R8VFR16RE32
+    0	    0	   11 
+    1	   10	    8 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    5 
+
+Author:A318KPHDANZS9C
+    0	   20	  187 
+    1	    0	    9 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A31BOEHG3I0OXR
+    0	    0	    0 
+    1	    3	    9 
+    2	    0	    0 
+    3	    0	    0 
+    4	    1	    0 
+
+Author:A31THPIE13GVUM
+    0	    0	    3 
+    1	    0	  102 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A326MBM6HLRBPI
+    0	   15	    0 
+    1	    0	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    2	    0 
+
+Author:A327XK0YZ3TDU3
+    0	    0	    0 
+    1	    4	   29 
+    2	    0	    0 
+    3	    0	    0 
+    4	    2	   13 
+
+Author:A3284Z1RBVFA6M
+    0	    0	    0 
+    1	    0	   20 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	   28 
+
+Author:A329U9CDUPKXAC
+    0	    0	    3 
+    1	   14	   37 
+    2	    0	    0 
+    3	    0	    0 
+    4	    2	    0 
+
+Author:A32L609OZITL5U
+    0	    0	    3 
+    1	   10	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    3	   54 
+
+Author:A32VDFSR3BYK66
+    0	    4	   28 
+    1	   21	  117 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A32Y6BBSUYZ5GP
+    0	    0	    1 
+    1	    3	   18 
+    2	    0	    0 
+    3	    1	    7 
+    4	    0	    0 
+
+Author:A33F4VINLCCV2S
+    0	    0	    0 
+    1	    0	   12 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A33QCJ4PCLPWA
+    0	    0	    0 
+    1	    2	   31 
+    2	    0	    0 
+    3	    0	    0 
+    4	    6	    0 
+
+Author:A33QSE1ZWTVVLQ
+    0	   76	    1 
+    1	   21	    1 
+    2	    2	    5 
+    3	    0	    0 
+    4	    1	    3 
+
+Author:A33TY3VA9JQCUM
+    0	   18	   48 
+    1	    0	   62 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3463RD31XSAZS
+    0	    0	    0 
+    1	    4	   44 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A34769P699AW4R
+    0	    1	   46 
+    1	   14	    5 
+    2	    0	    0 
+    3	    0	   17 
+    4	    0	    0 
+
+Author:A34784ZOJJP0M2
+    0	    0	   18 
+    1	    0	    2 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A34BQSLKAQ87BM
+    0	    0	   19 
+    1	    7	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    1 
+
+Author:A34J4T3P013GOF
+    0	    1	  251 
+    1	    0	    7 
+    2	    0	    0 
+    3	    0	    2 
+    4	    4	    1 
+
+Author:A34ZV6HVMQN7WE
+    0	   36	    8 
+    1	    3	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    3	   46 
+
+Author:A3502A1ELDV1XQ
+    0	   56	   17 
+    1	    1	   12 
+    2	  206	   73 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A350BWE1B223FH
+    0	    3	   47 
+    1	   87	   11 
+    2	    0	    0 
+    3	    0	    0 
+    4	    8	    0 
+
+Author:A351MSV516RWP0
+    0	   16	    8 
+    1	    2	   25 
+    2	    0	    1 
+    3	    2	    4 
+    4	    0	    0 
+
+Author:A35BUZEDKJOIDU
+    0	    1	    0 
+    1	    1	  229 
+    2	    0	    0 
+    3	    0	    1 
+    4	    0	    0 
+
+Author:A35DH6LV5HAGK7
+    0	    1	    1 
+    1	    1	   23 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A35FJXNJD1IUVM
+    0	    1	    3 
+    1	   14	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A35QOBAZRK2NJM
+    0	    0	   22 
+    1	    0	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3625Y9ZQ482RG
+    0	    0	    5 
+    1	    4	   24 
+    2	    0	    0 
+    3	    2	   27 
+    4	    4	    4 
+
+Author:A366VSAHKJARPU
+    0	   31	  146 
+    1	   26	    2 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A369M4F4PJW4TL
+    0	    0	    0 
+    1	    5	   37 
+    2	   24	   53 
+    3	    1	    0 
+    4	    0	    0 
+
+Author:A370CM07MEWLZU
+    0	    0	    0 
+    1	  218	   16 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A376VNDVGQQSXV
+    0	    2	   10 
+    1	    0	    0 
+    2	    0	    0 
+    3	    4	   14 
+    4	    4	    0 
+
+Author:A37AO0L3KQYKE3
+    0	    0	   64 
+    1	    1	   16 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A37BXI7J5TGP8A
+    0	    0	    1 
+    1	    2	    0 
+    2	    0	    0 
+    3	    3	  258 
+    4	    0	    0 
+
+Author:A37HESAOSP6UZ7
+    0	    4	    0 
+    1	   25	    5 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A37OKOWUR84RKR
+    0	    0	    0 
+    1	    0	    0 
+    2	   69	    6 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A37XJPYDIPY4V8
+    0	    1	    2 
+    1	    2	  185 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A384ZCGPQKK32J
+    0	   12	    1 
+    1	    4	    6 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A38ASHIY26U4DS
+    0	   13	    7 
+    1	    0	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A38FQ4M18II55K
+    0	    0	    2 
+    1	    3	   12 
+    2	    1	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A38LPIS8OE0844
+    0	    1	   59 
+    1	    1	    3 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A38MVH8Q7M29EA
+    0	   10	    4 
+    1	    0	   17 
+    2	    0	    0 
+    3	    0	    0 
+    4	    1	   12 
+
+Author:A38P95FSE5FNFF
+    0	    0	    4 
+    1	    0	  269 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A38RVISUB1NBX1
+    0	    0	    0 
+    1	    0	   22 
+    2	    0	   26 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A399ZT8GQB5CRW
+    0	    0	  138 
+    1	    1	    0 
+    2	    0	    0 
+    3	    0	    1 
+    4	    0	    0 
+
+Author:A39MGDGVQ1TJKB
+    0	    0	    3 
+    1	    8	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    5	   18 
+
+Author:A39MXPEVAOU5HD
+    0	    0	    2 
+    1	    3	   20 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A39PZLWK47I22U
+    0	    1	    0 
+    1	    1	   23 
+    2	    0	    0 
+    3	   15	  122 
+    4	    0	    0 
+
+Author:A3A1QSEBP9YSEH
+    0	    0	    8 
+    1	    2	   80 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3ARWHBXTJIYLZ
+    0	    0	   23 
+    1	    2	    2 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3BB2SYEVX5S83
+    0	    3	   97 
+    1	    0	   22 
+    2	    0	    0 
+    3	    2	    0 
+    4	    0	    0 
+
+Author:A3C0TQBK5GWKX9
+    0	    0	   16 
+    1	   13	   61 
+    2	    0	    0 
+    3	    0	    0 
+    4	   13	  202 
+
+Author:A3C5GM9KR3J4P8
+    0	    0	    5 
+    1	    0	   19 
+    2	    0	    0 
+    3	    2	    7 
+    4	    2	    0 
+
+Author:A3C7HXRECZ7DQ9
+    0	    0	    0 
+    1	    8	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    6	    2 
+
+Author:A3C90H9CA3L3A9
+    0	    0	    0 
+    1	    1	    0 
+    2	    0	    0 
+    3	    1	   88 
+    4	    0	    0 
+
+Author:A3CDHU9QH6KI1G
+    0	   13	   36 
+    1	    0	   24 
+    2	    0	    0 
+    3	    0	    0 
+    4	    1	    1 
+
+Author:A3CV3NFZAITG5S
+    0	    0	    2 
+    1	    2	   11 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3D3OMASZ2TD1J
+    0	    0	    0 
+    1	    0	    0 
+    2	    0	    0 
+    3	    0	   10 
+    4	    0	    0 
+
+Author:A3D8L2V2UZY3EW
+    0	    2	    1 
+    1	   53	    3 
+    2	    0	    0 
+    3	    0	    1 
+    4	    0	    0 
+
+Author:A3D8QYSC2YD2BU
+    0	    0	   54 
+    1	   27	   37 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	   28 
+
+Author:A3DM6CAMDAXO81
+    0	    1	    4 
+    1	    0	    8 
+    2	    0	    1 
+    3	    0	    1 
+    4	    1	   96 
+
+Author:A3DMHHKDRTJP2Z
+    0	   13	   24 
+    1	    0	    0 
+    2	    0	    0 
+    3	    0	    1 
+    4	    0	    0 
+
+Author:A3DOR8NJDEQRDM
+    0	    0	   37 
+    1	    4	   13 
+    2	    0	    0 
+    3	    0	    0 
+    4	    1	    5 
+
+Author:A3DSTCVVYNFEDR
+    0	    0	    0 
+    1	    0	   23 
+    2	    0	    0 
+    3	    0	    0 
+    4	    3	   12 
+
+Author:A3DWGIDZUA8PE7
+    0	  309	   18 
+    1	    3	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3E3ZYJ4YBGF5K
+    0	    1	    0 
+    1	    0	   17 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3E4ELN05NOOCM
+    0	    1	    3 
+    1	   85	   43 
+    2	    0	    0 
+    3	    1	    2 
+    4	    0	    0 
+
+Author:A3E6KB3JE8N0RE
+    0	   31	    7 
+    1	    9	   19 
+    2	    0	   42 
+    3	    0	    0 
+    4	    6	   18 
+
+Author:A3F819Y3ZY47IR
+    0	   15	   80 
+    1	    7	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3FG5E1JKYNJP2
+    0	    0	    0 
+    1	    4	   36 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3FHAII5XRHPP4
+    0	   22	    0 
+    1	    1	  185 
+    2	    0	    0 
+    3	    1	    3 
+    4	   12	   19 
+
+Author:A3FHBI2QZO0U7L
+    0	    2	  113 
+    1	    5	    8 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3FLB8UKQJK0R0
+    0	    0	    0 
+    1	    0	    2 
+    2	    0	    0 
+    3	    0	    0 
+    4	    6	   21 
+
+Author:A3FQYQXODMF9BS
+    0	    1	    0 
+    1	    0	    4 
+    2	    0	    0 
+    3	    0	    0 
+    4	    5	    1 
+
+Author:A3FU28LE6YIKZ6
+    0	    7	    6 
+    1	    1	  140 
+    2	    0	    0 
+    3	    0	    0 
+    4	    1	    0 
+
+Author:A3FY3H6F4249E0
+    0	    0	    0 
+    1	    0	   23 
+    2	    0	    0 
+    3	    0	    0 
+    4	   13	    7 
+
+Author:A3GEEH9COQ1DAE
+    0	   21	   58 
+    1	    0	    5 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3GEYQSS1SFNCX
+    0	    1	    7 
+    1	    1	   17 
+    2	    0	    0 
+    3	    0	    8 
+    4	    0	    0 
+
+Author:A3GPAIQLM1FJ8N
+    0	    0	    1 
+    1	    0	   50 
+    2	    0	    0 
+    3	   10	   35 
+    4	   21	   23 
+
+Author:A3GS652N046WCY
+    0	    1	    2 
+    1	    1	  514 
+    2	    0	    0 
+    3	    0	    2 
+    4	    0	    0 
+
+Author:A3GU7RH6MTG4KD
+    0	    0	    8 
+    1	    0	   28 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3GUYKUVQR193Y
+    0	    1	    0 
+    1	    4	   10 
+    2	    0	    0 
+    3	    0	    0 
+    4	    4	    3 
+
+Author:A3GZSOZGCZ5KUF
+    0	    2	    0 
+    1	    3	   79 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3H0ZG9TITELTT
+    0	   16	    2 
+    1	    0	   20 
+    2	    0	    0 
+    3	    0	    0 
+    4	    4	    0 
+
+Author:A3H4YCDZ1AA4XI
+    0	    0	    1 
+    1	    5	   79 
+    2	    0	    0 
+    3	    0	    1 
+    4	    0	    0 
+
+Author:A3H7536DT4B5B3
+    0	    9	   27 
+    1	    0	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3H8OYFN6YK011
+    0	    1	    3 
+    1	   12	  179 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3HCXZMIY9VQP4
+    0	    0	  139 
+    1	    0	   11 
+    2	    0	    0 
+    3	    1	    1 
+    4	    0	    0 
+
+Author:A3HETSSOHE1PKU
+    0	   19	    0 
+    1	   31	    1 
+    2	    0	    0 
+    3	    3	    0 
+    4	    6	    9 
+
+Author:A3HFCR13YQ02F6
+    0	    6	    0 
+    1	    4	   15 
+    2	    0	    1 
+    3	    0	    0 
+    4	    1	   43 
+
+Author:A3HKM6CV2FRIAO
+    0	  124	   32 
+    1	   30	    6 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3HUH32J7E6Q9U
+    0	    2	    0 
+    1	  249	    0 
+    2	    0	    0 
+    3	    0	    1 
+    4	    0	    0 
+
+Author:A3I531M80ZQAUG
+    0	    6	   30 
+    1	    6	    0 
+    2	    0	    0 
+    3	    0	    6 
+    4	    7	    2 
+
+Author:A3IKUB16AKC30V
+    0	    0	    2 
+    1	    1	   22 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3IMZD8H7CM6W7
+    0	    8	    0 
+    1	    4	   58 
+    2	    0	    0 
+    3	    0	   45 
+    4	    0	    0 
+
+Author:A3IRXNDM83RSGX
+    0	    0	   14 
+    1	    0	   15 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3J30853Z1UV3
+    0	    0	   13 
+    1	    7	    2 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3JABB4NAPKLC0
+    0	   10	   25 
+    1	    0	   13 
+    2	    0	    0 
+    3	    0	    4 
+    4	   34	    0 
+
+Author:A3JRYJVMOD1I1Z
+    0	    0	   21 
+    1	    0	    3 
+    2	    0	    0 
+    3	    0	    0 
+    4	    6	    0 
+
+Author:A3K08KQKC6AQGE
+    0	    5	   19 
+    1	    0	    1 
+    2	    0	    0 
+    3	    0	   15 
+    4	   12	   11 
+
+Author:A3K6KLZM6NMSSU
+    0	    0	  324 
+    1	    4	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3KADK9IQVWP7H
+    0	    1	    1 
+    1	    0	  102 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3KFM4J7IQB1MG
+    0	    2	  123 
+    1	    4	    2 
+    2	    0	    0 
+    3	    0	    0 
+    4	    1	    0 
+
+Author:A3KTTW7UVZ8WIA
+    0	   17	   37 
+    1	   10	    3 
+    2	    0	    0 
+    3	    0	   75 
+    4	    0	   95 
+
+Author:A3L66Y1BYA9QYF
+    0	    0	    0 
+    1	    4	  101 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3L6WUQDZMVNOT
+    0	   13	    0 
+    1	    0	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    1 
+
+Author:A3LANSRXLT1PW0
+    0	    0	   75 
+    1	    0	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3LLNNAB0EZ91T
+    0	    8	  102 
+    1	    0	    5 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3LNHQUS9WWOWN
+    0	    0	    3 
+    1	    0	   15 
+    2	    0	    0 
+    3	    5	    7 
+    4	    6	    2 
+
+Author:A3LQOWCIROATJF
+    0	    4	   24 
+    1	    0	   21 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    1 
+
+Author:A3LQZIDPKRO6O0
+    0	    0	    8 
+    1	    0	   96 
+    2	    0	    0 
+    3	    0	    1 
+    4	    0	    0 
+
+Author:A3LT8GZAT81ORR
+    0	    2	    1 
+    1	    1	   11 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3LXS9IIAF1JF7
+    0	    5	    0 
+    1	   19	    0 
+    2	   23	   40 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3M4IFFAVJ9IFS
+    0	    0	    0 
+    1	   17	   49 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3MJYQFHRYLUUB
+    0	    0	    1 
+    1	    1	   22 
+    2	    0	    0 
+    3	    0	   28 
+    4	    8	    0 
+
+Author:A3MOV8L1XB19VU
+    0	    0	    0 
+    1	    0	    0 
+    2	    7	  124 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3MPPWV1NZ947B
+    0	    0	    0 
+    1	    0	   15 
+    2	    0	    0 
+    3	    0	    0 
+    4	   56	   13 
+
+Author:A3MTWL1M5ETGN1
+    0	    0	    0 
+    1	  125	   13 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3MYULZNSOK1GP
+    0	  296	    6 
+    1	   84	    0 
+    2	    3	    1 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3N6CQURJPCMXU
+    0	   35	    4 
+    1	    0	   14 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    3 
+
+Author:A3NN20WJ5HB2WQ
+    0	    4	    0 
+    1	   20	   42 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	   18 
+
+Author:A3NXRO3FHGGGQ
+    0	    8	    1 
+    1	    0	   42 
+    2	    0	    3 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3O3VMIGC318GA
+    0	   13	   97 
+    1	    3	    0 
+    2	    0	    0 
+    3	    1	    0 
+    4	    1	    0 
+
+Author:A3O5G9KBDI1EWZ
+    0	    0	    0 
+    1	    1	    7 
+    2	    8	   37 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3OA39GU01O3LJ
+    0	    6	    1 
+    1	   67	    0 
+    2	    0	    0 
+    3	    0	    1 
+    4	    0	    0 
+
+Author:A3OK1D2NG8PDHH
+    0	    0	   31 
+    1	   12	   47 
+    2	    3	    0 
+    3	    0	    0 
+    4	    2	    3 
+
+Author:A3OQQLNBCGX7OF
+    0	    2	    0 
+    1	    7	   20 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3OSMVS6F8J52R
+    0	    1	    1 
+    1	    7	  120 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3OTEPVZGIQ10P
+    0	    5	    6 
+    1	    0	    6 
+    2	    0	    0 
+    3	    2	   39 
+    4	   24	   11 
+
+Author:A3OWCQNG5IH08U
+    0	    1	    0 
+    1	    0	  131 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3P0LI6QIMYPCN
+    0	    1	    4 
+    1	    8	   56 
+    2	    0	    0 
+    3	   18	    0 
+    4	    0	    0 
+
+Author:A3P2B0QNPLCTWC
+    0	    3	    0 
+    1	    3	    2 
+    2	    0	    0 
+    3	  127	   10 
+    4	    0	    0 
+
+Author:A3PC5I16UUMAT
+    0	    3	   20 
+    1	    2	    9 
+    2	    0	    0 
+    3	    0	    0 
+    4	    4	    0 
+
+Author:A3PNWZJCI5WDN3
+    0	   10	   11 
+    1	    4	    3 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    5 
+
+Author:A3PSHGAOTDG9KM
+    0	    0	    0 
+    1	    0	   48 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3QGSG53WSAEEU
+    0	    2	    3 
+    1	    2	   13 
+    2	    0	    0 
+    3	    0	    0 
+    4	    3	   55 
+
+Author:A3QKD4TVO99AWM
+    0	    9	  631 
+    1	   12	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3QO2WJVGDXQTI
+    0	    1	    0 
+    1	   31	    9 
+    2	    0	    0 
+    3	   86	    2 
+    4	    0	   19 
+
+Author:A3QOQEG57W6JGY
+    0	    4	   12 
+    1	    0	    0 
+    2	    0	    0 
+    3	    1	   97 
+    4	    0	    0 
+
+Author:A3QPULETXKE5HU
+    0	    0	    0 
+    1	    1	   16 
+    2	    0	    0 
+    3	    0	    0 
+    4	    7	    6 
+
+Author:A3QZ1FKIP9FRV4
+    0	    4	    0 
+    1	    0	   12 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3R04LT87V2DL1
+    0	    5	    8 
+    1	    5	   16 
+    2	    0	    0 
+    3	    0	    0 
+    4	   19	    9 
+
+Author:A3R2548M8S5M57
+    0	    3	   19 
+    1	    4	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    1	   20 
+
+Author:A3RWOP0VZGGVZ1
+    0	   16	    0 
+    1	    3	   46 
+    2	    0	    0 
+    3	    0	    0 
+    4	    4	    0 
+
+Author:A3S2MVAGMF5YRZ
+    0	    0	   19 
+    1	    2	   73 
+    2	    0	    0 
+    3	    0	    2 
+    4	    0	    0 
+
+Author:A3SEVHPWPO0LYM
+    0	    5	   55 
+    1	    0	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	   17	    3 
+
+Author:A3SL26R3RT8J0U
+    0	    0	  146 
+    1	    0	   14 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3SMS9JQJMJJFW
+    0	    3	   14 
+    1	    0	   21 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    4 
+
+Author:A3SRC1OT820OYS
+    0	    3	    0 
+    1	    0	   25 
+    2	    0	    0 
+    3	    0	   12 
+    4	    0	    5 
+
+Author:A3SZ2XO5I6U2ZQ
+    0	    0	   67 
+    1	    0	    0 
+    2	    0	    0 
+    3	    0	    1 
+    4	    0	    0 
+
+Author:A3T1LD0C65QCWK
+    0	    3	   54 
+    1	    6	    8 
+    2	    0	    0 
+    3	    0	    0 
+    4	    6	   82 
+
+Author:A3T1TLQK7R7MSR
+    0	    0	    0 
+    1	    1	    8 
+    2	    0	    0 
+    3	    0	    0 
+    4	    2	    9 
+
+Author:A3TAFV5IVM3CH4
+    0	  574	    9 
+    1	    2	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    1	    2 
+
+Author:A3TB6HHP6A8NM3
+    0	    1	  108 
+    1	    1	    1 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3TE8VVAVGSAX5
+    0	    6	    0 
+    1	    2	    7 
+    2	    0	    0 
+    3	    0	    8 
+    4	    4	    1 
+
+Author:A3TFZSCFDSD4I0
+    0	    0	    2 
+    1	    1	    4 
+    2	    0	  569 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3TMAD9ON28F6H
+    0	    0	    2 
+    1	    6	  512 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3TPGG4IOTSACH
+    0	    3	   63 
+    1	    0	    4 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3TRKNMLV6IG06
+    0	    0	    0 
+    1	    0	    1 
+    2	    0	    0 
+    3	    0	    0 
+    4	    8	   61 
+
+Author:A3TVR34DW2Y7VN
+    0	    3	    0 
+    1	    0	   33 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3TVSO2065TNJS
+    0	    9	    6 
+    1	    2	   32 
+    2	    0	    0 
+    3	    0	    1 
+    4	    0	    0 
+
+Author:A3UKDOW0U3ZYU8
+    0	    0	    0 
+    1	    0	   11 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	   39 
+
+Author:A3UTWR8PIEVJK1
+    0	    0	    0 
+    1	   60	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3V3UPRLPELFXF
+    0	  109	    1 
+    1	  127	  101 
+    2	    0	    0 
+    3	    4	    1 
+    4	    0	    0 
+
+Author:A3VEDH326XQ8VL
+    0	    3	    2 
+    1	   27	    0 
+    2	    0	   48 
+    3	    1	    0 
+    4	   14	    2 
+
+Author:A3VGZLS9WRB67N
+    0	   10	    6 
+    1	    5	   13 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3VHAALZYOOS5U
+    0	   47	   22 
+    1	    0	    2 
+    2	    1	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3VOFIDW9JNPCK
+    0	    0	    0 
+    1	    1	    3 
+    2	    0	    0 
+    3	    6	   61 
+    4	    0	   20 
+
+Author:A3VVUAK2GEY0AH
+    0	    6	   15 
+    1	    0	    1 
+    2	   60	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3VYEUNPJO1ZIG
+    0	    7	    6 
+    1	    6	   66 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A3VZNITSXIBUX2
+    0	    3	   19 
+    1	    1	    2 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	   13 
+
+Author:A3W1RZLQ1LMTRW
+    0	    0	   63 
+    1	    0	    1 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A4A5HDMH7RBT4
+    0	    0	    0 
+    1	    3	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	   25 
+
+Author:A4ED9UKUDOTCQ
+    0	    0	    5 
+    1	    0	    3 
+    2	    0	    0 
+    3	    0	    0 
+    4	   11	    0 
+
+Author:A4GHPW9AAH1NY
+    0	    7	  506 
+    1	    5	  180 
+    2	    0	    0 
+    3	    1	    3 
+    4	    0	    0 
+
+Author:A4ZGF5JYF9ETM
+    0	    0	    0 
+    1	    2	    5 
+    2	    0	    0 
+    3	    0	    0 
+    4	  138	   15 
+
+Author:A54EHE66G0CSH
+    0	   69	   12 
+    1	    0	    3 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A5II29J0V20A1
+    0	    0	    0 
+    1	   15	  183 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A5NW75XALM6BJ
+    0	   29	    2 
+    1	    4	    1 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A5YTJTBGL5FGF
+    0	    0	    1 
+    1	    1	   94 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A63M7C6XOBGF1
+    0	    0	    3 
+    1	    0	    5 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    5 
+
+Author:A6IBSMUH4B3SG
+    0	    8	   56 
+    1	    0	    6 
+    2	    0	    1 
+    3	   15	   64 
+    4	    0	    0 
+
+Author:A6NOK4XE2ZJSK
+    0	    7	    0 
+    1	   58	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A6QWAICA6BRQ6
+    0	    1	    2 
+    1	    0	   77 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A6S7SX7KZNLWE
+    0	    5	   17 
+    1	    0	   40 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A6YNST64DV16U
+    0	    0	  243 
+    1	    1	    3 
+    2	    0	    0 
+    3	    1	    0 
+    4	    0	    0 
+
+Author:A7A9DGPLJL1BM
+    0	    1	   19 
+    1	    1	   16 
+    2	    0	    0 
+    3	    2	    6 
+    4	    6	    0 
+
+Author:A7CA5HHV1E6Q1
+    0	    0	    0 
+    1	   45	  195 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A7F2D16W6QLJB
+    0	    3	   60 
+    1	    0	    9 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A7GO34GEWHPO2
+    0	    0	   20 
+    1	    0	   49 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A7LH7OL4WI1IM
+    0	    4	    1 
+    1	    0	   45 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A7VD6RP98IT0G
+    0	  120	  168 
+    1	    3	    1 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A7X1EGI6GQFCG
+    0	    0	  233 
+    1	    3	    8 
+    2	    0	    0 
+    3	    1	    0 
+    4	    0	    0 
+
+Author:A80PF0XOKO3OS
+    0	    0	   32 
+    1	    0	    9 
+    2	    0	    0 
+    3	    0	    3 
+    4	    1	   48 
+
+Author:A81NMGV11FHEB
+    0	    0	   35 
+    1	    1	   18 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A82OQ5H4B5RYU
+    0	    1	    2 
+    1	    1	   36 
+    2	    0	    0 
+    3	    0	    6 
+    4	    0	    5 
+
+Author:A8BFJT1X235ZP
+    0	    0	    1 
+    1	    5	    0 
+    2	    0	    0 
+    3	    2	  142 
+    4	    0	    0 
+
+Author:A8I88SQIFHEWX
+    0	    0	   10 
+    1	    1	   24 
+    2	    0	    0 
+    3	    1	    0 
+    4	   16	    2 
+
+Author:A8LD0IMNAVO78
+    0	    1	    4 
+    1	    1	   15 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A8LO6O3SPS8NL
+    0	    0	    2 
+    1	    0	   10 
+    2	    0	    0 
+    3	    0	    0 
+    4	    2	    1 
+
+Author:A8WIQF2U3QWF2
+    0	    1	    0 
+    1	    4	    0 
+    2	   86	    0 
+    3	    1	    0 
+    4	    0	    0 
+
+Author:A8ZTRH5096CHD
+    0	    0	    0 
+    1	    0	   16 
+    2	    0	    0 
+    3	    0	   33 
+    4	    0	    0 
+
+Author:A8ZTV69V3E3JP
+    0	   10	   78 
+    1	    1	   26 
+    2	    0	    0 
+    3	    9	   14 
+    4	   24	   33 
+
+Author:A96O6JWBMFYXX
+    0	    1	    3 
+    1	    3	    7 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A97WADB8I0VZ8
+    0	    0	   15 
+    1	    1	   10 
+    2	    0	    0 
+    3	    0	    9 
+    4	    0	    0 
+
+Author:A98W6MJ16VAHM
+    0	    0	    7 
+    1	    0	   29 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A9D1T62EIZH3W
+    0	    3	  102 
+    1	    2	    0 
+    2	    0	    0 
+    3	    0	    1 
+    4	    0	    0 
+
+Author:A9FSFH4AXR217
+    0	    0	    3 
+    1	   22	    0 
+    2	   10	   55 
+    3	    0	    0 
+    4	    1	    1 
+
+Author:A9H4W8UM9TLTG
+    0	  184	    0 
+    1	   13	    0 
+    2	    1	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A9IV6SY00XZBE
+    0	    2	    0 
+    1	    8	   17 
+    2	    0	    0 
+    3	    1	    0 
+    4	    0	    0 
+
+Author:A9KM1OEA9EZG2
+    0	    0	    0 
+    1	    0	   36 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A9LJMH2PTOU54
+    0	    2	   79 
+    1	    1	    2 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A9STL49HW9XX9
+    0	    0	    0 
+    1	    0	    0 
+    2	  121	   83 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:A9WMTK33PWM0L
+    0	    1	    0 
+    1	    2	   53 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AATI0MSHFCFU6
+    0	    0	    0 
+    1	    3	   75 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AB33UE558VFWL
+    0	   11	  239 
+    1	   62	   16 
+    2	    0	    0 
+    3	    1	    0 
+    4	    1	    0 
+
+Author:AB3PFS4L8S8BS
+    0	   12	   10 
+    1	    0	   32 
+    2	    0	    0 
+    3	    1	    0 
+    4	    7	    2 
+
+Author:ABA143HKY0SGO
+    0	    2	   15 
+    1	    0	   19 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    8 
+
+Author:ABHNSSGMRHTS4
+    0	    0	    0 
+    1	    0	    0 
+    2	    0	    0 
+    3	    0	   11 
+    4	    4	    2 
+
+Author:ABZG5AXQ5FAFZ
+    0	    0	  308 
+    1	    0	   75 
+    2	    0	    0 
+    3	    0	    0 
+    4	   22	    3 
+
+Author:AC2Y6JALKXOX1
+    0	    0	    1 
+    1	    1	   30 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AC3PWNLPPDZ7V
+    0	    0	    0 
+    1	    0	   16 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:ACAB3G5BMKOD8
+    0	    1	   37 
+    1	   20	   11 
+    2	    0	    0 
+    3	    0	    3 
+    4	   24	   13 
+
+Author:ACMDWBCD4Q8YD
+    0	   10	    0 
+    1	  105	    0 
+    2	    0	    0 
+    3	    2	    0 
+    4	    0	    0 
+
+Author:ACSEDIMHWSOXA
+    0	    1	    0 
+    1	    6	   14 
+    2	    0	    0 
+    3	    1	    0 
+    4	    3	    4 
+
+Author:ACUJFXPFRNES5
+    0	   73	    0 
+    1	    5	    3 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AD5A08SQP73K8
+    0	    1	    7 
+    1	   39	    3 
+    2	    0	    0 
+    3	    0	    2 
+    4	    0	    0 
+
+Author:AD5RHGB8NO66O
+    0	    1	    1 
+    1	    1	  126 
+    2	    0	    0 
+    3	    0	    0 
+    4	    3	    0 
+
+Author:AD6O5TQ56KODY
+    0	    0	    7 
+    1	    0	    6 
+    2	    0	    6 
+    3	    0	    0 
+    4	    1	    0 
+
+Author:AD6RH2I2O1361
+    0	    0	    2 
+    1	    0	   75 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:ADJL6BJAL0QHA
+    0	   17	    1 
+    1	   35	   61 
+    2	    0	    0 
+    3	    0	    1 
+    4	    3	    2 
+
+Author:AE5S1WZ0A10TU
+    0	   25	    0 
+    1	    0	    2 
+    2	    0	    0 
+    3	    2	    1 
+    4	    0	    0 
+
+Author:AE5WYJRCCWO54
+    0	    0	    5 
+    1	   21	    2 
+    2	    0	    0 
+    3	    2	   14 
+    4	   13	    6 
+
+Author:AE76U8LPKIO20
+    0	   27	   42 
+    1	    1	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AEC12IT251YOJ
+    0	   56	    5 
+    1	    3	    6 
+    2	    0	    0 
+    3	    0	    1 
+    4	    0	    0 
+
+Author:AEHKB3A9A5LQ3
+    0	    0	    0 
+    1	    0	   42 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AEMJKTDOS08YD
+    0	    0	   39 
+    1	    1	    3 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	   20 
+
+Author:AEQ7J903ZDQB9
+    0	    0	    1 
+    1	    0	   15 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AEW4BUOU9NPHX
+    0	    2	    2 
+    1	    0	    2 
+    2	    2	   24 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AF2O7VPMYM64R
+    0	    0	    0 
+    1	   20	   16 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AF502FLL5WFZ3
+    0	    0	  321 
+    1	   11	    2 
+    2	    0	    1 
+    3	    0	    0 
+    4	    1	    0 
+
+Author:AF7EK81RUQLS0
+    0	    9	  136 
+    1	    0	    1 
+    2	    0	    0 
+    3	    0	    0 
+    4	    1	    7 
+
+Author:AFCQFHBWBJ732
+    0	    0	   14 
+    1	    1	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    1 
+
+Author:AFF3DHY92TQZ5
+    0	    0	    2 
+    1	    4	  113 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AFHRXCHUPZ9LG
+    0	    2	    0 
+    1	    1	   21 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AFU0TSA806IDG
+    0	    2	    3 
+    1	    0	   19 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AG6TX1ZJHLMO7
+    0	   21	   10 
+    1	   34	   34 
+    2	    2	    5 
+    3	    0	    0 
+    4	    8	   72 
+
+Author:AGFFT2H0HP5DP
+    0	    3	    1 
+    1	    5	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    6	    0 
+
+Author:AGVWTYW0ULXHT
+    0	    7	    0 
+    1	  106	    9 
+    2	    0	    0 
+    3	  602	    3 
+    4	    1	    0 
+
+Author:AGZA5NR9ETIVI
+    0	    0	    0 
+    1	    4	   14 
+    2	    0	    0 
+    3	    0	    0 
+    4	    5	   49 
+
+Author:AH6QORNPE3G7J
+    0	    0	    1 
+    1	   14	   17 
+    2	    0	    0 
+    3	    4	    0 
+    4	   12	    0 
+
+Author:AHDK8HOWRU3TZ
+    0	    4	  172 
+    1	    0	    6 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AHTRVSTBYF1GP
+    0	    0	    6 
+    1	    2	   30 
+    2	    0	    0 
+    3	    4	    0 
+    4	    0	   10 
+
+Author:AI1YVR9BTXKJY
+    0	    6	    0 
+    1	    0	   22 
+    2	    0	    0 
+    3	    2	   95 
+    4	    0	    0 
+
+Author:AI8SYIRIR3ZBN
+    0	    6	    0 
+    1	    0	    0 
+    2	    3	    7 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AIIB8YL2EMN27
+    0	    0	    0 
+    1	    1	   10 
+    2	    0	    0 
+    3	   42	    4 
+    4	    0	    0 
+
+Author:AIO1B1JJ45K2O
+    0	    4	    6 
+    1	    0	   61 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    1 
+
+Author:AJ8NRBZLPY0J5
+    0	  118	    5 
+    1	    0	    3 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AJGKS8I4AK8P0
+    0	    3	   10 
+    1	    4	   15 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AJGQJ14JZ959F
+    0	    0	    0 
+    1	    0	    7 
+    2	    0	    0 
+    3	    5	    4 
+    4	    2	    0 
+
+Author:AJGV9L5AUJNWQ
+    0	    0	  102 
+    1	    2	   21 
+    2	    0	    0 
+    3	    1	    0 
+    4	    0	    0 
+
+Author:AJLOC0CORPDK3
+    0	    3	   73 
+    1	    3	   10 
+    2	    0	    0 
+    3	    0	    1 
+    4	    0	    0 
+
+Author:AJM37TU3F6HQL
+    0	    6	    0 
+    1	    2	   16 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AJTDXMUEDECSC
+    0	    0	    3 
+    1	  164	   15 
+    2	    1	    0 
+    3	    0	    1 
+    4	    0	    0 
+
+Author:AJU9AJ2PMIG9E
+    0	    0	    8 
+    1	    0	   82 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AK04FZOTMV56B
+    0	    1	    6 
+    1	    1	   54 
+    2	    0	    2 
+    3	    0	    1 
+    4	   58	    0 
+
+Author:AKFZW8C8V300G
+    0	    0	    0 
+    1	    0	   54 
+    2	    0	    0 
+    3	    1	    1 
+    4	    0	    0 
+
+Author:AKGIV55WF6AR1
+    0	    9	    2 
+    1	    3	   43 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AKHN0EKVKCAD
+    0	    1	    0 
+    1	    8	   17 
+    2	    0	    1 
+    3	    0	   30 
+    4	    0	    0 
+
+Author:AKIEFY6DLDE0M
+    0	    1	    5 
+    1	    0	    9 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	   23 
+
+Author:AKKJ70PM3F0EG
+    0	    8	  151 
+    1	    1	    5 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AKUV3L42SXENI
+    0	   13	    0 
+    1	    0	   83 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AKXTKRMH354MC
+    0	    1	    0 
+    1	    0	   10 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:ALIHW3UFNEZJ0
+    0	    0	    6 
+    1	   45	   33 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:ALR9LNC5A05PQ
+    0	    3	   21 
+    1	    4	   25 
+    2	    0	    0 
+    3	    3	   55 
+    4	    7	   26 
+
+Author:ALXASFO2K9U8R
+    0	  350	  201 
+    1	    0	    1 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:ALXCOQIFDVKTX
+    0	    0	    0 
+    1	    4	   52 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AM2101Z0DKN1J
+    0	    0	    0 
+    1	    0	   14 
+    2	    0	    0 
+    3	    0	    0 
+    4	    2	    0 
+
+Author:AM5H7L71ABZMA
+    0	    1	    0 
+    1	    1	   40 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AMDH9WZHBLCDB
+    0	    0	   65 
+    1	    0	    2 
+    2	    0	    0 
+    3	    0	    0 
+    4	    2	    0 
+
+Author:AMMKG6NCVRX4A
+    0	    9	    1 
+    1	    0	    7 
+    2	    0	    0 
+    3	    0	   63 
+    4	    0	    0 
+
+Author:AMWCYFA788T7G
+    0	    5	    0 
+    1	    4	   47 
+    2	    0	    0 
+    3	    2	    0 
+    4	    1	    9 
+
+Author:AN7N8S4EZ417N
+    0	    0	    1 
+    1	    3	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    1	   54 
+
+Author:ANES1FN98LDA
+    0	    0	    2 
+    1	    0	   35 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    2 
+
+Author:ANH4MLUGXJ30B
+    0	    1	   64 
+    1	    0	    5 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:ANIGUYITSALG5
+    0	    1	  293 
+    1	    3	    4 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:ANTY291D369RU
+    0	    6	   79 
+    1	    1	   10 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:ANYEN7ZMACRWO
+    0	   18	    1 
+    1	    1	    6 
+    2	    0	    0 
+    3	    2	   12 
+    4	    1	    3 
+
+Author:AOF7NCVGY5Q9L
+    0	    2	    0 
+    1	    0	    0 
+    2	    0	    0 
+    3	   71	   89 
+    4	    0	    0 
+
+Author:AOM0JM785Y3SS
+    0	    0	    2 
+    1	    5	   68 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AOQLV2LSI9B2W
+    0	    0	    1 
+    1	    0	   56 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:APC5D5A8NQHO0
+    0	    0	   46 
+    1	    1	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    1 
+
+Author:APOMWWL64TSEQ
+    0	    5	   52 
+    1	    0	   13 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:APXKSYPG1URYE
+    0	   11	   34 
+    1	   26	   39 
+    2	   50	   16 
+    3	   18	   84 
+    4	  143	   19 
+
+Author:APZOVTHH3782C
+    0	    0	    1 
+    1	    5	   43 
+    2	    0	    0 
+    3	    0	    0 
+    4	    6	    2 
+
+Author:AQ7S2BMYH1AIJ
+    0	   25	    0 
+    1	    0	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    8	    9 
+
+Author:AQ8NG6B2LSFBO
+    0	    0	    0 
+    1	    0	   46 
+    2	    0	    0 
+    3	    2	    0 
+    4	    0	    0 
+
+Author:AQJ30GO9FDZSM
+    0	    0	    2 
+    1	   49	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    3	    0 
+
+Author:AQQ8V23D7NK7H
+    0	    1	    2 
+    1	    6	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    5	    6 
+
+Author:AQREKW7FJKDPO
+    0	    6	    0 
+    1	    0	    8 
+    2	    0	    0 
+    3	    0	    0 
+    4	    4	    3 
+
+Author:AQZQJ4ELF83C8
+    0	   47	    0 
+    1	    0	    1 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AR3WDNWFTY466
+    0	    0	    1 
+    1	    0	   47 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AR7HZK82DCZU3
+    0	    3	    0 
+    1	    0	    6 
+    2	    0	    0 
+    3	    0	    0 
+    4	    1	   38 
+
+Author:ARITRJE4XY8X4
+    0	    0	    4 
+    1	    0	   10 
+    2	    0	    0 
+    3	    3	   11 
+    4	    6	    0 
+
+Author:ARXOW47VYELLV
+    0	   18	    3 
+    1	    0	   78 
+    2	    0	    0 
+    3	    1	    3 
+    4	    0	    1 
+
+Author:AS102XE19E8BM
+    0	    0	    0 
+    1	    0	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    1	   15 
+
+Author:AS8RLFPFR0PW0
+    0	    4	   73 
+    1	    0	    2 
+    2	    0	    0 
+    3	    1	    0 
+    4	    0	    0 
+
+Author:ASG6C6WFV954T
+    0	    0	    0 
+    1	    1	    9 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    2 
+
+Author:ASKK2XE0QBNOO
+    0	    1	    9 
+    1	   41	    5 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:ASN5XBLI889UK
+    0	    0	    6 
+    1	    6	   24 
+    2	    0	    0 
+    3	    0	    0 
+    4	    3	   27 
+
+Author:ASS5XAM9ISWBG
+    0	    7	   15 
+    1	    0	    3 
+    2	    0	    0 
+    3	    0	    0 
+    4	   31	   16 
+
+Author:AT1YSY1NSFNJX
+    0	    0	    6 
+    1	    0	   18 
+    2	    0	    0 
+    3	    0	    0 
+    4	   10	    0 
+
+Author:ATCXB57UOV0HQ
+    0	    0	    0 
+    1	    0	   73 
+    2	    0	    0 
+    3	    0	    0 
+    4	    7	    4 
+
+Author:ATJ63IIDYLDRT
+    0	    1	    0 
+    1	    3	   66 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AUC00ZXJFFZU6
+    0	    4	    2 
+    1	    7	    1 
+    2	    0	    0 
+    3	  150	    4 
+    4	    0	    0 
+
+Author:AUI0JMB49MDBA
+    0	    2	    1 
+    1	   10	    1 
+    2	    3	    9 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AUON12CS6D352
+    0	    0	   18 
+    1	    1	  135 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AUR1ZUJHGH2YT
+    0	    4	    8 
+    1	    1	    0 
+    2	    4	   82 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AURCMF0N3RJN1
+    0	    0	    0 
+    1	    1	    2 
+    2	    0	    0 
+    3	    1	   56 
+    4	    0	    0 
+
+Author:AUTJD6LQMLHCS
+    0	   12	   55 
+    1	    0	    5 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AUUGRRM0F8FPK
+    0	    3	    4 
+    1	    2	   67 
+    2	    0	    0 
+    3	    0	    0 
+    4	    2	   15 
+
+Author:AV02BD9RWKVVN
+    0	    1	    4 
+    1	   16	    6 
+    2	    0	    0 
+    3	    0	    3 
+    4	    5	    8 
+
+Author:AV3JXRL170HS2
+    0	    1	    0 
+    1	    0	   59 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AV49YZXR0XNZF
+    0	    0	    3 
+    1	    0	    6 
+    2	    0	    0 
+    3	    0	    0 
+    4	    9	    0 
+
+Author:AV8OL8TBMFD6Y
+    0	   33	  104 
+    1	   19	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AVFMQ6VEN0XUQ
+    0	    3	  116 
+    1	    2	    7 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AVH30MGD299C6
+    0	    4	    1 
+    1	   37	    3 
+    2	    0	    0 
+    3	    1	    2 
+    4	    0	    0 
+
+Author:AVHKJLWOLQH18
+    0	    9	   11 
+    1	    1	    6 
+    2	    0	    0 
+    3	   11	    1 
+    4	   10	    2 
+
+Author:AVJPUGJSZRWV9
+    0	    4	    3 
+    1	    1	  112 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AVV5BYC6BHISA
+    0	    2	    9 
+    1	   40	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    8	   16 
+
+Author:AVVBQUNZHF9MR
+    0	    0	    1 
+    1	   12	  110 
+    2	    2	    0 
+    3	    0	    1 
+    4	    0	    0 
+
+Author:AVZHSR5AFP2K6
+    0	    1	   14 
+    1	    3	    2 
+    2	    0	    0 
+    3	    3	    1 
+    4	    0	    0 
+
+Author:AW2YK5K2DAJKZ
+    0	    0	    2 
+    1	    0	   24 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AW6RXAHTUBQBE
+    0	    0	    0 
+    1	    0	    6 
+    2	    0	   12 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AW7OK2XKWW2MZ
+    0	    0	    1 
+    1	   12	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	   43 
+
+Author:AW93IA6GCFT71
+    0	    5	    0 
+    1	    0	   33 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AWD4VXMZRB8EE
+    0	    3	    3 
+    1	    0	   46 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    2 
+
+Author:AWN3XA4DX9S5Z
+    0	    0	   60 
+    1	    0	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AWVM2DGT9UWOE
+    0	   39	  266 
+    1	    3	    4 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AWX99YKHD709N
+    0	    0	    2 
+    1	    3	   40 
+    2	    0	    0 
+    3	    0	    0 
+    4	    2	   64 
+
+Author:AX1VXQS9O9YNM
+    0	    2	   17 
+    1	    4	   33 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AXAL9FZSUPRUQ
+    0	    2	   22 
+    1	    0	    0 
+    2	    0	    0 
+    3	    1	    0 
+    4	    2	    1 
+
+Author:AXKLKDXT6HUSU
+    0	    1	    1 
+    1	   34	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AYAQNZQVTCN2
+    0	    1	    0 
+    1	    6	    6 
+    2	    0	    0 
+    3	    7	    8 
+    4	   12	    6 
+
+Author:AYCCDNUA9P4A8
+    0	   15	    0 
+    1	    0	   32 
+    2	    0	    0 
+    3	    4	    0 
+    4	    2	   39 
+
+Author:AYCTNGJTV1B9N
+    0	   18	    0 
+    1	   13	    0 
+    2	    0	    0 
+    3	    1	    0 
+    4	    0	   15 
+
+Author:AYF566938FAQL
+    0	    6	    2 
+    1	    1	   27 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AYI8N4KQVEMO1
+    0	    0	   94 
+    1	    0	    0 
+    2	    0	    0 
+    3	    2	    0 
+    4	    0	    0 
+
+Author:AYOU2992BS07E
+    0	    0	    1 
+    1	    2	    7 
+    2	    0	  177 
+    3	    0	    1 
+    4	    0	    1 
+
+Author:AYTM219FD9R4V
+    0	  124	    3 
+    1	    4	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    1	    0 
+
+Author:AYWTOOHCEMDHO
+    0	    0	   36 
+    1	    9	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	   12	    0 
+
+Author:AYWUHB7N8XGZQ
+    0	    1	    0 
+    1	    1	   66 
+    2	    1	    0 
+    3	    1	    0 
+    4	    4	  107 
+
+Author:AZ15XWZT29IIS
+    0	    1	   10 
+    1	    2	    1 
+    2	    0	    0 
+    3	    0	    7 
+    4	    0	    0 
+
+Author:AZ2EUUPT343HV
+    0	    0	    0 
+    1	   50	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AZ9ENSIJIDKT8
+    0	    0	   12 
+    1	    4	   52 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AZBRHQP9JYPOT
+    0	    0	    3 
+    1	    3	  188 
+    2	    0	    0 
+    3	    1	    0 
+    4	    0	    0 
+
+Author:AZDU2XNJ7D0C9
+    0	    0	    0 
+    1	   16	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AZFTYFNMLB3YU
+    0	    1	    1 
+    1	    4	   51 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AZLJNRP33K5SA
+    0	    4	   37 
+    1	    3	   29 
+    2	    0	    0 
+    3	    0	    0 
+    4	    2	    1 
+
+Author:AZLMBLAJTLY57
+    0	    3	  226 
+    1	   12	    0 
+    2	    0	    0 
+    3	    0	    7 
+    4	    0	    0 
+
+Author:AZNP009VKC1U7
+    0	    3	   44 
+    1	   10	    9 
+    2	    0	    0 
+    3	  108	    2 
+    4	    0	    0 
+
+Author:AZRB5ODL3X3NY
+    0	   11	    5 
+    1	    1	   85 
+    2	    0	    0 
+    3	    0	    0 
+    4	    0	    0 
+
+Author:AZTOOOBVEU973
+    0	    1	    0 
+    1	    0	    0 
+    2	    0	    0 
+    3	    0	    0 
+    4	    2	  150 
+
+Author:AZWEICMJHGT1Q
+    0	    9	    3 
+    1	    3	   54 
+    2	    0	    3 
+    3	    0	    0 
+    4	    0	    0 
+
